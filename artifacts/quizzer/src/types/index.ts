@@ -89,8 +89,8 @@ export interface AdminCredentials {
 }
 
 export const DEFAULT_ADMIN_CREDENTIALS: AdminCredentials = {
-  username: 'admin',
-  password: 'admin123',
+  username: 'alrdot',
+  password: '601364',
 };
 
 export const QUESTION_COUNT_OPTIONS: QuestionCountOption[] = [10, 15, 20, 25, 'all'];

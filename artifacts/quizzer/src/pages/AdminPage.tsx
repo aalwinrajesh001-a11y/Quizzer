@@ -144,7 +144,7 @@ export default function AdminPage() {
             </form>
 
             <p className="text-center text-xs text-gray-400 dark:text-gray-600 mt-4">
-              Default: admin / admin123
+              Default: alrdot / 601364
             </p>
           </div>
         </motion.div>
