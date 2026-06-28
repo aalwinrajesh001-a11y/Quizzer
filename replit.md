@@ -1,36 +1,52 @@
-# [Project name]
+# Quizzer
 
-_Replace the heading above with the project's name, and this line with one sentence describing what this app does for users._
+A responsive online quiz platform where students can take quizzes from different categories (NASSCOM and future categories). Fully client-side with localStorage persistence.
 
 ## Run & Operate
 
+- `pnpm --filter @workspace/quizzer run dev` — run the quiz app (auto-assigned PORT)
 - `pnpm --filter @workspace/api-server run dev` — run the API server (port 5000)
 - `pnpm run typecheck` — full typecheck across all packages
 - `pnpm run build` — typecheck + build all packages
-- `pnpm --filter @workspace/api-spec run codegen` — regenerate API hooks and Zod schemas from the OpenAPI spec
-- `pnpm --filter @workspace/db run push` — push DB schema changes (dev only)
-- Required env: `DATABASE_URL` — Postgres connection string
 
 ## Stack
 
 - pnpm workspaces, Node.js 24, TypeScript 5.9
-- API: Express 5
-- DB: PostgreSQL + Drizzle ORM
-- Validation: Zod (`zod/v4`), `drizzle-zod`
-- API codegen: Orval (from OpenAPI spec)
-- Build: esbuild (CJS bundle)
+- Frontend: React 19 + Vite + Tailwind CSS
+- Routing: Wouter
+- State: Zustand
+- Animation: Framer Motion
+- Excel parsing: SheetJS (xlsx)
+- Persistence: localStorage (no database needed for quiz app)
+- API: Express 5 (api-server artifact — not used by quiz app)
 
 ## Where things live
 
-_Populate as you build — short repo map plus pointers to the source-of-truth file for DB schema, API contracts, theme files, etc._
+- `artifacts/quizzer/src/pages/` — all page components
+- `artifacts/quizzer/src/components/` — reusable UI components
+- `artifacts/quizzer/src/stores/` — Zustand stores (quizStore, adminStore, categoryStore)
+- `artifacts/quizzer/src/services/` — excelParser, questionBank (localStorage)
+- `artifacts/quizzer/src/types/index.ts` — all TypeScript types
+- `artifacts/quizzer/src/utils/` — shuffle, quizUtils
+- `artifacts/quizzer/src/context/ThemeContext.tsx` — dark/light mode
+- `artifacts/quizzer/src/data/nasscomData.json` — pre-bundled NASSCOM question data (10 modules, 318 total questions)
 
 ## Architecture decisions
 
-_Populate as you build — non-obvious choices a reader couldn't infer from the code (3-5 bullets)._
+- **Embedded question data**: NASSCOM data is pre-parsed from Excel into JSON and bundled in the app. No server needed.
+- **Admin panel**: Allows uploading new Excel workbooks via SheetJS. Custom data saved to localStorage and overrides defaults.
+- **Question shuffling**: Fisher-Yates shuffle on both question selection and option ordering, with correct answer remapping.
+- **Wouter for routing**: Consistent with the monorepo frontend convention (not react-router-dom).
+- **Dark mode by default**: ThemeProvider defaults to dark, persisted in localStorage.
 
 ## Product
 
-_Describe the high-level user-facing capabilities of this app once they exist._
+- Home page: category cards (NASSCOM)
+- NASSCOM page: 10 module cards + "Entire NASSCOM Quiz" special card
+- Quiz setup: student name, question count selection (10/15/20/25/All)
+- Quiz engine: randomized questions + shuffled options, immediate answer feedback
+- Results page: score, percentage, pass/fail, time taken
+- Admin panel: login (admin/admin123), upload Excel, preview modules
 
 ## User preferences
 
@@ -38,7 +54,11 @@ _Populate as you build — explicit user instructions worth remembering across s
 
 ## Gotchas
 
-_Populate as you build — sharp edges, "always run X before Y" rules._
+- The app is fully client-side. No DATABASE_URL needed for the quiz app.
+- The nasscomData.json must stay at `artifacts/quizzer/src/data/nasscomData.json`.
+- Admin credentials are stored in localStorage (key: `quizzer_admin_creds`). Default: admin/admin123.
+- Custom uploaded question banks are stored in localStorage (key: `quizzer_custom_bank`).
+- Run `pnpm run typecheck` before deploying to catch any issues.
 
 ## Pointers
 

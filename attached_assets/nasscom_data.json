@@ -1,0 +1,6996 @@
+[
+  {
+    "id": "module-1",
+    "name": "Module 1",
+    "questions": [
+      {
+        "id": "M1-Q1",
+        "question": "Identify the logo of following chatbot developed by OPEN AI:",
+        "options": [
+          {
+            "id": "a",
+            "text": "GEMINI"
+          },
+          {
+            "id": "b",
+            "text": "CHATGPT"
+          },
+          {
+            "id": "c",
+            "text": "BING AI"
+          },
+          {
+            "id": "d",
+            "text": "CLAUDE"
+          }
+        ],
+        "correctAnswer": "b",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M1-Q2",
+        "question": "What role do data science engineers play in the synergy between AI and data science engineering?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Handling electronic health records in healthcare"
+          },
+          {
+            "id": "b",
+            "text": "Optimizing investment portfolios in finance"
+          },
+          {
+            "id": "c",
+            "text": "Evaluating AI models using statistical methods"
+          },
+          {
+            "id": "d",
+            "text": "Developing AI algorithms and models"
+          }
+        ],
+        "correctAnswer": "d",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M1-Q3",
+        "question": "Arrange the following milestones in order: 1.Introduction of 'AI' by McCarthy 2.IBM Deep Blue defeats Kasparov 3.First neural network model",
+        "options": [
+          {
+            "id": "a",
+            "text": "1 > 3 > 2"
+          },
+          {
+            "id": "b",
+            "text": "3 > 2 > 1"
+          },
+          {
+            "id": "c",
+            "text": "2 > 3 > 1"
+          },
+          {
+            "id": "d",
+            "text": "2 > 1 > 3"
+          }
+        ],
+        "correctAnswer": "a",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M1-Q4",
+        "question": "Match AI terms: 1.Machine Learning 2.Neural Networks 3.Natural Language Processing with A.Algorithms learning from data B.Brain-inspired model C.Mimics cognitive functions",
+        "options": [
+          {
+            "id": "a",
+            "text": "1-C, 2-B, 3-A"
+          },
+          {
+            "id": "b",
+            "text": "1-A, 2-B, 3-C"
+          },
+          {
+            "id": "c",
+            "text": "1-C, 2-A, 3-B"
+          },
+          {
+            "id": "d",
+            "text": "1-A, 2-C, 3-B"
+          }
+        ],
+        "correctAnswer": [
+          "b"
+        ],
+        "isMultiAnswer": true
+      },
+      {
+        "id": "M1-Q5",
+        "question": "A healthcare startup uses neural networks to detect rare diseases. Which aspect is crucial?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Loss functions"
+          },
+          {
+            "id": "b",
+            "text": "Activation functions"
+          },
+          {
+            "id": "c",
+            "text": "Gradient descent optimization"
+          },
+          {
+            "id": "d",
+            "text": "Regularization techniques"
+          }
+        ],
+        "correctAnswer": "b",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M1-Q6",
+        "question": "How can understanding business processes help optimize operations?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Enhancing decision-making"
+          },
+          {
+            "id": "b",
+            "text": "Strengthening manual errors"
+          },
+          {
+            "id": "c",
+            "text": "Enhancing fictional scenarios"
+          },
+          {
+            "id": "d",
+            "text": "Promoting irrelevant details"
+          }
+        ],
+        "correctAnswer": "a",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M1-Q7",
+        "question": "A company wants to improve sales forecasting with AI. Which must be enhanced?",
+        "options": [
+          {
+            "id": "a",
+            "text": "6-month forecast"
+          },
+          {
+            "id": "b",
+            "text": "Dashboard reports"
+          },
+          {
+            "id": "c",
+            "text": "Sales"
+          },
+          {
+            "id": "d",
+            "text": "Model & report"
+          }
+        ],
+        "correctAnswer": "d",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M1-Q8",
+        "question": "Steps to improve customer service with AI: 1.Put AI into practice 2.Determine main issues 3.Train AI on consumer data",
+        "options": [
+          {
+            "id": "a",
+            "text": "3 → 1 → 2"
+          },
+          {
+            "id": "b",
+            "text": "2 → 3 → 1"
+          },
+          {
+            "id": "c",
+            "text": "1 → 2 → 3"
+          },
+          {
+            "id": "d",
+            "text": "2 → 1 → 3"
+          }
+        ],
+        "correctAnswer": "b",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M1-Q9",
+        "question": "What technology provides near real-time replicas of lifelong data records for individuals in healthcare?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Digital Twins"
+          },
+          {
+            "id": "b",
+            "text": "Robots in Healthcare"
+          },
+          {
+            "id": "c",
+            "text": "AI and Machine Learning"
+          },
+          {
+            "id": "d",
+            "text": "3D Printing"
+          }
+        ],
+        "correctAnswer": "a",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M1-Q10",
+        "question": "Identify the chatbot with a colorful star/sparkle logo.",
+        "options": [
+          {
+            "id": "a",
+            "text": "CLAUDE"
+          },
+          {
+            "id": "b",
+            "text": "GEMINI"
+          },
+          {
+            "id": "c",
+            "text": "BING AI"
+          },
+          {
+            "id": "d",
+            "text": "CHATGPT"
+          }
+        ],
+        "correctAnswer": "b",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M1-Q11",
+        "question": "Most important technical requirement for AI website personalization based on browsing history?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Increased staff for customer service"
+          },
+          {
+            "id": "b",
+            "text": "High-quality website design"
+          },
+          {
+            "id": "c",
+            "text": "Low operational cost"
+          },
+          {
+            "id": "d",
+            "text": "AI model for content recommendation"
+          }
+        ],
+        "correctAnswer": "d",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M1-Q12",
+        "question": "What historical event paved the way for skyscrapers and mass-produced goods?",
+        "options": [
+          {
+            "id": "a",
+            "text": "The Renaissance"
+          },
+          {
+            "id": "b",
+            "text": "The French Revolution"
+          },
+          {
+            "id": "c",
+            "text": "The Industrial Revolution"
+          },
+          {
+            "id": "d",
+            "text": "The Enlightenment"
+          }
+        ],
+        "correctAnswer": "c",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M1-Q13",
+        "question": "AI assistant accesses personal data for recommendations. Most significant ethical concern?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Transparency of AI decision-making"
+          },
+          {
+            "id": "b",
+            "text": "Impact on human jobs"
+          },
+          {
+            "id": "c",
+            "text": "User privacy and data protection"
+          },
+          {
+            "id": "d",
+            "text": "Potential bias in AI algorithms"
+          }
+        ],
+        "correctAnswer": "c",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M1-Q14",
+        "question": "Which AI framework is identified by the PyTorch logo?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Deep learning IO"
+          },
+          {
+            "id": "b",
+            "text": "Neural networks"
+          },
+          {
+            "id": "c",
+            "text": "Pytorch"
+          },
+          {
+            "id": "d",
+            "text": "Python"
+          }
+        ],
+        "correctAnswer": "c",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M1-Q15",
+        "question": "Company uses Google Gemini AI to analyze sensitive customer data. Most pressing concern?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Customer privacy and data protection"
+          },
+          {
+            "id": "b",
+            "text": "Natural language processing capabilities"
+          },
+          {
+            "id": "c",
+            "text": "Integration with existing cloud infrastructure"
+          },
+          {
+            "id": "d",
+            "text": "Competition from other AI platforms"
+          }
+        ],
+        "correctAnswer": "a",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M1-Q16",
+        "question": "Which cloud's AI model is shown in the image (blue puzzle-like logo)?",
+        "options": [
+          {
+            "id": "a",
+            "text": "AWS"
+          },
+          {
+            "id": "b",
+            "text": "Dataiku"
+          },
+          {
+            "id": "c",
+            "text": "Azure"
+          },
+          {
+            "id": "d",
+            "text": "Google"
+          }
+        ],
+        "correctAnswer": "d",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M1-Q17",
+        "question": "AI medical imaging system misdiagnoses a patient. Most critical ethical consideration?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Potential job displacement of radiologists"
+          },
+          {
+            "id": "b",
+            "text": "Algorithm accuracy and reliability"
+          },
+          {
+            "id": "c",
+            "text": "Transparency and accountability of AI decision-making"
+          },
+          {
+            "id": "d",
+            "text": "Patient privacy and data security"
+          }
+        ],
+        "correctAnswer": "c",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M1-Q18",
+        "question": "What distinguishes Deep Learning (DL) from AI and ML?",
+        "options": [
+          {
+            "id": "a",
+            "text": "DL involves algorithms learning without explicit programming"
+          },
+          {
+            "id": "b",
+            "text": "DL focuses on achieving AI through data training"
+          },
+          {
+            "id": "c",
+            "text": "DL mimics brain functions with layered neural networks for pattern recognition"
+          },
+          {
+            "id": "d",
+            "text": "DL encompasses tasks like language understanding"
+          }
+        ],
+        "correctAnswer": "c",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M1-Q19",
+        "question": "Match AI tools with healthcare use cases: A.Neural Network B.Decision Trees C.NLP with 1.Predicting outcomes 2.Detecting tumors 3.Doctor notes",
+        "options": [
+          {
+            "id": "a",
+            "text": "1-A, 2-C, 3-B"
+          },
+          {
+            "id": "b",
+            "text": "1-B, 2-A, 3-C"
+          },
+          {
+            "id": "c",
+            "text": "1-B, 2-C, 3-A"
+          },
+          {
+            "id": "d",
+            "text": "1-C, 2-B, 3-A"
+          }
+        ],
+        "correctAnswer": [
+          "a"
+        ],
+        "isMultiAnswer": true
+      },
+      {
+        "id": "M1-Q20",
+        "question": "Identify the Python logo coding language used in ML.",
+        "options": [
+          {
+            "id": "a",
+            "text": "JAVA"
+          },
+          {
+            "id": "b",
+            "text": "PYTHON"
+          },
+          {
+            "id": "c",
+            "text": "C++"
+          },
+          {
+            "id": "d",
+            "text": "C"
+          }
+        ],
+        "correctAnswer": "b",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M1-Q21",
+        "question": "What analogy does Tomaso Poggio use for periodicity of neural network ideas?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Waves in the ocean"
+          },
+          {
+            "id": "b",
+            "text": "Epidemics of viruses"
+          },
+          {
+            "id": "c",
+            "text": "Cycles of the moon"
+          },
+          {
+            "id": "d",
+            "text": "Growth of plants"
+          }
+        ],
+        "correctAnswer": "a",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M1-Q22",
+        "question": "Correct order for ML model development: 1.Model Evaluation 2.Data Preprocessing 3.Model Training",
+        "options": [
+          {
+            "id": "a",
+            "text": "2 > 3 > 1"
+          },
+          {
+            "id": "b",
+            "text": "2 > 1 > 3"
+          },
+          {
+            "id": "c",
+            "text": "1 > 3 > 2"
+          },
+          {
+            "id": "d",
+            "text": "3 > 2 > 1"
+          }
+        ],
+        "correctAnswer": "a",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M1-Q23",
+        "question": "Correct order for neural network training: 1.Activation Function 2.Backpropagation 3.Forward Propagation",
+        "options": [
+          {
+            "id": "a",
+            "text": "2 > 1 > 3"
+          },
+          {
+            "id": "b",
+            "text": "2 > 3 > 1"
+          },
+          {
+            "id": "c",
+            "text": "1 > 3 > 2"
+          },
+          {
+            "id": "d",
+            "text": "3 > 2 > 1"
+          }
+        ],
+        "correctAnswer": "d",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M1-Q24",
+        "question": "How can AI improve a recommendation system?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Use collaborative filtering"
+          },
+          {
+            "id": "b",
+            "text": "Use decision trees"
+          },
+          {
+            "id": "c",
+            "text": "Use clustering"
+          },
+          {
+            "id": "d",
+            "text": "Use linear regression"
+          }
+        ],
+        "correctAnswer": "a",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M1-Q25",
+        "question": "Which AI method helps predict future sales based on past data?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Clustering"
+          },
+          {
+            "id": "b",
+            "text": "Data visualization"
+          },
+          {
+            "id": "c",
+            "text": "Regression analysis"
+          },
+          {
+            "id": "d",
+            "text": "Decision trees"
+          }
+        ],
+        "correctAnswer": "c",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M1-Q26",
+        "question": "Manufacturing company uses AI to optimize production schedules. Which area improves?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Worker safety"
+          },
+          {
+            "id": "b",
+            "text": "Production efficiency"
+          },
+          {
+            "id": "c",
+            "text": "Product quality"
+          },
+          {
+            "id": "d",
+            "text": "Facility size"
+          }
+        ],
+        "correctAnswer": "b",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M1-Q27",
+        "question": "Retail company uses AI to predict demand and manage inventory. Which area improves?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Stock levels"
+          },
+          {
+            "id": "b",
+            "text": "Warehouse construction"
+          },
+          {
+            "id": "c",
+            "text": "Customer feedback"
+          },
+          {
+            "id": "d",
+            "text": "Employee training"
+          }
+        ],
+        "correctAnswer": "a",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M1-Q28",
+        "question": "Identify the diagram showing Problem Definition → Data Investigation → Data Preparation → Development → Evaluation → Deployment → Monitoring",
+        "options": [
+          {
+            "id": "a",
+            "text": "AI Process management"
+          },
+          {
+            "id": "b",
+            "text": "AI Applications"
+          },
+          {
+            "id": "c",
+            "text": "AI Future scope"
+          },
+          {
+            "id": "d",
+            "text": "AI life cycle"
+          }
+        ],
+        "correctAnswer": "d",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M1-Q29",
+        "question": "Which ML stage is shown: Business Need → Data → Develop Model → Train → Test → Deploy → Connect → Monitor?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Model Training"
+          },
+          {
+            "id": "b",
+            "text": "Data Collection"
+          },
+          {
+            "id": "c",
+            "text": "Model Evaluation"
+          },
+          {
+            "id": "d",
+            "text": "Model Deployment"
+          }
+        ],
+        "correctAnswer": "a",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M1-Q30",
+        "question": "Match ML concepts: 1.Supervised Learning 2.Unsupervised Learning 3.Reinforcement Learning with A.Learns patterns B.Uses labeled data C.Trial and error",
+        "options": [
+          {
+            "id": "a",
+            "text": "1-B, 2-A, 3-C"
+          },
+          {
+            "id": "b",
+            "text": "1-C, 2-A, 3-B"
+          },
+          {
+            "id": "c",
+            "text": "1-C, 2-B, 3-A"
+          },
+          {
+            "id": "d",
+            "text": "1-A, 2-C, 3-B"
+          }
+        ],
+        "correctAnswer": [
+          "a"
+        ],
+        "isMultiAnswer": true
+      },
+      {
+        "id": "M1-Q31",
+        "question": "Identify the ML type shown: Unlabelled Data → Machine → Results (groups of shapes)",
+        "options": [
+          {
+            "id": "a",
+            "text": "Supervised"
+          },
+          {
+            "id": "b",
+            "text": "Unsupervised"
+          },
+          {
+            "id": "c",
+            "text": "Reinforcement"
+          },
+          {
+            "id": "d",
+            "text": "Overfitting"
+          }
+        ],
+        "correctAnswer": "b",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M1-Q32",
+        "question": "Which type of AI exhibits specific facets of human intelligence but lacks others?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Narrow AI"
+          },
+          {
+            "id": "b",
+            "text": "General AI"
+          },
+          {
+            "id": "c",
+            "text": "Deep Learning"
+          },
+          {
+            "id": "d",
+            "text": "Machine Learning"
+          }
+        ],
+        "correctAnswer": "a",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M1-Q33",
+        "question": "Healthcare startup evaluating AI for diagnosis. What ensures ethical unbiased use?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Minimizing human intervention"
+          },
+          {
+            "id": "b",
+            "text": "Optimizing storage efficiency"
+          },
+          {
+            "id": "c",
+            "text": "Implementing diverse datasets"
+          },
+          {
+            "id": "d",
+            "text": "Enhancing computational speed"
+          }
+        ],
+        "correctAnswer": "c",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M1-Q34",
+        "question": "Correct order to train deep learning via supervised learning: 1.Evaluate performance 2.Backpropagation 3.Initialize parameters",
+        "options": [
+          {
+            "id": "a",
+            "text": "2 > 3 > 1"
+          },
+          {
+            "id": "b",
+            "text": "1 > 3 > 2"
+          },
+          {
+            "id": "c",
+            "text": "3 > 2 > 1"
+          },
+          {
+            "id": "d",
+            "text": "2 > 1 > 3"
+          }
+        ],
+        "correctAnswer": "c",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M1-Q35",
+        "question": "Which technology makes Deep Learning possible by mimicking the brain?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Clustering"
+          },
+          {
+            "id": "b",
+            "text": "Artificial Neural Networks (ANNs)"
+          },
+          {
+            "id": "c",
+            "text": "Reinforcement Learning"
+          },
+          {
+            "id": "d",
+            "text": "Decision Tree Learning"
+          }
+        ],
+        "correctAnswer": "b",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M1-Q36",
+        "question": "Match: 1.Google Gemini AI 2.Multimodal Tasks 3.NLP Capabilities with a.Google's language tech b.Multiple data types c.Google's multimodal model",
+        "options": [
+          {
+            "id": "a",
+            "text": "1-A, 2-C, 3-B"
+          },
+          {
+            "id": "b",
+            "text": "1-C, 2-B, 3-A"
+          },
+          {
+            "id": "c",
+            "text": "1-B, 2-A, 3-C"
+          },
+          {
+            "id": "d",
+            "text": "1-C, 2-A, 3-B"
+          }
+        ],
+        "correctAnswer": [
+          "b"
+        ],
+        "isMultiAnswer": true
+      },
+      {
+        "id": "M1-Q37",
+        "question": "Healthcare provider implementing AI diagnostic tools. Most critical ethical consideration?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Algorithm accuracy and reliability"
+          },
+          {
+            "id": "b",
+            "text": "Regulatory compliance"
+          },
+          {
+            "id": "c",
+            "text": "Patient privacy and data security"
+          },
+          {
+            "id": "d",
+            "text": "Staff training"
+          }
+        ],
+        "correctAnswer": "a",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M1-Q38",
+        "question": "Relationship between AI, ML, and DL?",
+        "options": [
+          {
+            "id": "a",
+            "text": "AI encompasses ML and DL with DL being subset of ML"
+          },
+          {
+            "id": "b",
+            "text": "AI encompasses ML and DL with ML being subset of DL"
+          },
+          {
+            "id": "c",
+            "text": "DL is subset of ML which is subset of AI"
+          },
+          {
+            "id": "d",
+            "text": "AI is subset of ML which is subset of DL"
+          }
+        ],
+        "correctAnswer": "c",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M1-Q39",
+        "question": "Order for ChatGPT query processing: 1.Interpret intent 2.Retrieve info 3.Generate response",
+        "options": [
+          {
+            "id": "a",
+            "text": "3 > 2 > 1"
+          },
+          {
+            "id": "b",
+            "text": "2 > 1 > 3"
+          },
+          {
+            "id": "c",
+            "text": "1 > 3 > 2"
+          },
+          {
+            "id": "d",
+            "text": "2 > 3 > 1"
+          }
+        ],
+        "correctAnswer": "c",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M1-Q40",
+        "question": "Identify ML type shown: Labeled Data + Labels → Machine → ML Model → Predictions",
+        "options": [
+          {
+            "id": "a",
+            "text": "Overfitting"
+          },
+          {
+            "id": "b",
+            "text": "Reinforcement"
+          },
+          {
+            "id": "c",
+            "text": "Unsupervised"
+          },
+          {
+            "id": "d",
+            "text": "Supervised"
+          }
+        ],
+        "correctAnswer": "d",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M1-Q41",
+        "question": "Identify the chatbot (colorful star logo on blue background).",
+        "options": [
+          {
+            "id": "a",
+            "text": "BING AI"
+          },
+          {
+            "id": "b",
+            "text": "CLAUDE"
+          },
+          {
+            "id": "c",
+            "text": "GEMINI"
+          },
+          {
+            "id": "d",
+            "text": "CHATGPT"
+          }
+        ],
+        "correctAnswer": "c",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M1-Q42",
+        "question": "What are adjustable parameters in Neurons called?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Weights and Biases"
+          },
+          {
+            "id": "b",
+            "text": "Input and Hidden layers"
+          },
+          {
+            "id": "c",
+            "text": "Units and Cells"
+          },
+          {
+            "id": "d",
+            "text": "Data and Biases"
+          }
+        ],
+        "correctAnswer": "a",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M1-Q43",
+        "question": "Systems that only react without creating memories are called?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Limited Memory"
+          },
+          {
+            "id": "b",
+            "text": "Reactive Machines"
+          },
+          {
+            "id": "c",
+            "text": "Theory of Mind"
+          },
+          {
+            "id": "d",
+            "text": "Self-awareness"
+          }
+        ],
+        "correctAnswer": "b",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M1-Q44",
+        "question": "Deep learning uses multiple layers of Neural Networks to process unstructured data, unlike ML which uses structured data.",
+        "options": [
+          {
+            "id": "a",
+            "text": "True"
+          },
+          {
+            "id": "b",
+            "text": "False"
+          }
+        ],
+        "correctAnswer": "a",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M1-Q45",
+        "question": "Just like PC, Internet and Cloud Computing, AI is also a disruptive technology.",
+        "options": [
+          {
+            "id": "a",
+            "text": "True"
+          },
+          {
+            "id": "b",
+            "text": "False"
+          }
+        ],
+        "correctAnswer": "a",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M1-Q46",
+        "question": "In Machine Learning, decisions are based on the type of algorithm selected.",
+        "options": [
+          {
+            "id": "a",
+            "text": "True"
+          },
+          {
+            "id": "b",
+            "text": "False"
+          }
+        ],
+        "correctAnswer": "a",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M1-Q47",
+        "question": "Naïve Bayes Classifier algorithm is useful for predicting class of the test dataset.",
+        "options": [
+          {
+            "id": "a",
+            "text": "True"
+          },
+          {
+            "id": "b",
+            "text": "False"
+          }
+        ],
+        "correctAnswer": "a",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M1-Q48",
+        "question": "Unsupervised ML algorithms are used when training info is neither classified nor labelled.",
+        "options": [
+          {
+            "id": "a",
+            "text": "True"
+          },
+          {
+            "id": "b",
+            "text": "False"
+          }
+        ],
+        "correctAnswer": "a",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M1-Q49",
+        "question": "Which ML algorithm is used by Stock Market Analysis?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Unsupervised Learning"
+          },
+          {
+            "id": "b",
+            "text": "Supervised Learning"
+          },
+          {
+            "id": "c",
+            "text": "Reinforcement Learning"
+          },
+          {
+            "id": "d",
+            "text": "Semi-supervised Learning"
+          }
+        ],
+        "correctAnswer": "b",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M1-Q50",
+        "question": "Which ML algorithm interacts with its environment by producing actions and discovering errors or rewards?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Supervised Learning"
+          },
+          {
+            "id": "b",
+            "text": "Semi Supervised Learning"
+          },
+          {
+            "id": "c",
+            "text": "Reinforcement Learning"
+          }
+        ],
+        "correctAnswer": "c",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M1-Q51",
+        "question": "What is differential privacy?",
+        "options": [
+          {
+            "id": "a",
+            "text": "A method to collect personal data"
+          },
+          {
+            "id": "b",
+            "text": "A way to protect our privacy"
+          },
+          {
+            "id": "c",
+            "text": "A technique for making AI secure"
+          },
+          {
+            "id": "d",
+            "text": "A method for making AI systems private"
+          }
+        ],
+        "correctAnswer": "b",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M1-Q52",
+        "question": "AI has the potential to amplify and scale human biases at an unprecedented rate.",
+        "options": [
+          {
+            "id": "a",
+            "text": "True"
+          },
+          {
+            "id": "b",
+            "text": "False"
+          }
+        ],
+        "correctAnswer": "a",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M1-Q53",
+        "question": "What is one benefit of a strong AI code of ethics?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Guarantees profit for companies"
+          },
+          {
+            "id": "b",
+            "text": "Ensures a secure and humane approach to AI"
+          },
+          {
+            "id": "c",
+            "text": "Eliminates government regulations"
+          },
+          {
+            "id": "d",
+            "text": "Increases speed of AI development"
+          }
+        ],
+        "correctAnswer": "b",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M1-Q54",
+        "question": "Which is a challenge in establishing AI ethics?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Lack of data for AI development"
+          },
+          {
+            "id": "b",
+            "text": "Absence of a wide-scale governing body"
+          },
+          {
+            "id": "c",
+            "text": "High costs to implement AI"
+          },
+          {
+            "id": "d",
+            "text": "Rapid advancement of AI tools"
+          }
+        ],
+        "correctAnswer": "b",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M1-Q55",
+        "question": "How can AI-powered recommendation systems affect consumer behavior? (Select all that apply)",
+        "options": [
+          {
+            "id": "a",
+            "text": "They have no influence"
+          },
+          {
+            "id": "b",
+            "text": "They can influence consumer preferences"
+          },
+          {
+            "id": "c",
+            "text": "They limit exposure of consumers"
+          },
+          {
+            "id": "d",
+            "text": "They can manipulate brand perceptions"
+          }
+        ],
+        "correctAnswer": [
+          "b",
+          "c",
+          "d"
+        ],
+        "isMultiAnswer": true
+      },
+      {
+        "id": "M1-Q56",
+        "question": "Which is NOT a risk associated with Deepfakes?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Increased attacks on celebrities"
+          },
+          {
+            "id": "b",
+            "text": "Creation of misleading information"
+          },
+          {
+            "id": "c",
+            "text": "Creation of fake accounts"
+          },
+          {
+            "id": "d",
+            "text": "Creation of a hyper personalized customer experience"
+          }
+        ],
+        "correctAnswer": "d",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M1-Q57",
+        "question": "Benefits of Explainability Mechanism in Image Generators? (Select all that apply)",
+        "options": [
+          {
+            "id": "a",
+            "text": "Eliminates copyright issues"
+          },
+          {
+            "id": "b",
+            "text": "Helps allocate credit to AI artwork"
+          },
+          {
+            "id": "c",
+            "text": "Helps in assessment of context and logic"
+          },
+          {
+            "id": "d",
+            "text": "Prevents cloning"
+          }
+        ],
+        "correctAnswer": [
+          "a",
+          "b",
+          "c"
+        ],
+        "isMultiAnswer": true
+      },
+      {
+        "id": "M1-Q58",
+        "question": "Which are under consideration for Generative AI copyright debate? (Select all that apply)",
+        "options": [
+          {
+            "id": "a",
+            "text": "AI Owner"
+          },
+          {
+            "id": "b",
+            "text": "AI Programmer"
+          },
+          {
+            "id": "c",
+            "text": "AI Reviewer"
+          },
+          {
+            "id": "d",
+            "text": "AI Administrator"
+          }
+        ],
+        "correctAnswer": [
+          "a",
+          "b",
+          "d"
+        ],
+        "isMultiAnswer": true
+      },
+      {
+        "id": "M1-Q59",
+        "question": "In India, ethical use of AI is detailed in a draft of _____.",
+        "options": [
+          {
+            "id": "a",
+            "text": "National AI Bureau"
+          },
+          {
+            "id": "b",
+            "text": "National AI Strategy"
+          },
+          {
+            "id": "c",
+            "text": "National AI Plan"
+          },
+          {
+            "id": "d",
+            "text": "National AI Federation"
+          }
+        ],
+        "correctAnswer": "b",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M1-Q60",
+        "question": "Generative AI can have significant environmental impact due to _____.",
+        "options": [
+          {
+            "id": "a",
+            "text": "CO2 Emission"
+          },
+          {
+            "id": "b",
+            "text": "NO2 Emission"
+          },
+          {
+            "id": "c",
+            "text": "Computer Waste"
+          },
+          {
+            "id": "d",
+            "text": "Heat Generation"
+          }
+        ],
+        "correctAnswer": "a",
+        "isMultiAnswer": false
+      }
+    ]
+  },
+  {
+    "id": "module-2",
+    "name": "Module 2",
+    "questions": [
+      {
+        "id": "M2-Q1",
+        "question": "Reactive machines use past experiences to determine future actions.",
+        "options": [
+          {
+            "id": "a",
+            "text": "True"
+          },
+          {
+            "id": "b",
+            "text": "False"
+          }
+        ],
+        "correctAnswer": "b",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M2-Q2",
+        "question": "Self-driving cars usually use Limited Memory technology to:",
+        "options": [
+          {
+            "id": "a",
+            "text": "Store data"
+          },
+          {
+            "id": "b",
+            "text": "Automate"
+          },
+          {
+            "id": "c",
+            "text": "Detect Motion"
+          }
+        ],
+        "correctAnswer": "a",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M2-Q3",
+        "question": "Which of these is NOT an application of AI?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Language Translation"
+          },
+          {
+            "id": "b",
+            "text": "Voice Recognition"
+          },
+          {
+            "id": "c",
+            "text": "Robotics"
+          },
+          {
+            "id": "d",
+            "text": "Obtain massive training data sets"
+          }
+        ],
+        "correctAnswer": "d",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M2-Q4",
+        "question": "Which of the following are examples of Weak AI?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Siri, Alexa & Advanced Chess Programs"
+          },
+          {
+            "id": "b",
+            "text": "Siri & Alexa"
+          },
+          {
+            "id": "c",
+            "text": "Advanced Chess Programs"
+          }
+        ],
+        "correctAnswer": [
+          "a",
+          "a"
+        ],
+        "isMultiAnswer": true
+      },
+      {
+        "id": "M2-Q5",
+        "question": "Predictive maintenance, an application of AI, prevents unplanned downtime.",
+        "options": [
+          {
+            "id": "a",
+            "text": "True"
+          },
+          {
+            "id": "b",
+            "text": "False"
+          }
+        ],
+        "correctAnswer": "a",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M2-Q6",
+        "question": "What is the name of the AI firm that introduced ChatGPT?",
+        "options": [
+          {
+            "id": "a",
+            "text": "OpenAI"
+          },
+          {
+            "id": "b",
+            "text": "Nuro"
+          },
+          {
+            "id": "c",
+            "text": "Stem"
+          }
+        ],
+        "correctAnswer": "a",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M2-Q7",
+        "question": "ChatGPT is a type of natural language processing model known as a generative pre-trained Transformer.",
+        "options": [
+          {
+            "id": "a",
+            "text": "True"
+          },
+          {
+            "id": "b",
+            "text": "False"
+          }
+        ],
+        "correctAnswer": "a",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M2-Q8",
+        "question": "Which of the following is a drawback of ChatGPT? (Select all that apply)",
+        "options": [
+          {
+            "id": "a",
+            "text": "Displays biassed content encouraging negative behaviour"
+          },
+          {
+            "id": "b",
+            "text": "Provides biassed responses overusing words"
+          },
+          {
+            "id": "c",
+            "text": "Analyzes input and shares answer quickly"
+          }
+        ],
+        "correctAnswer": [
+          "a",
+          "b"
+        ],
+        "isMultiAnswer": true
+      },
+      {
+        "id": "M2-Q9",
+        "question": "ChatGPT gives customers tailored responses that lead to _____.",
+        "options": [
+          {
+            "id": "a",
+            "text": "Personalized experience"
+          },
+          {
+            "id": "b",
+            "text": "Sales Support"
+          },
+          {
+            "id": "c",
+            "text": "Lead generation"
+          }
+        ],
+        "correctAnswer": "a",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M2-Q10",
+        "question": "ChatGPT is trained using Reinforcement Learning from Human Feedback (RLHF).",
+        "options": [
+          {
+            "id": "a",
+            "text": "True"
+          },
+          {
+            "id": "b",
+            "text": "False"
+          }
+        ],
+        "correctAnswer": "a",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M2-Q11",
+        "question": "Primary benefit of using ChatGPT for e-commerce customer service?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Enhancing website security"
+          },
+          {
+            "id": "b",
+            "text": "Optimizing supply chain logistics"
+          },
+          {
+            "id": "c",
+            "text": "Reducing customer wait times"
+          },
+          {
+            "id": "d",
+            "text": "Automating inventory management"
+          }
+        ],
+        "correctAnswer": "c",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M2-Q12",
+        "question": "ML recommendation system gives inaccurate suggestions. Potential cause?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Insufficient training data"
+          },
+          {
+            "id": "b",
+            "text": "Overfitting of the model"
+          },
+          {
+            "id": "c",
+            "text": "Low computational power"
+          },
+          {
+            "id": "d",
+            "text": "Inappropriate algorithm choice"
+          }
+        ],
+        "correctAnswer": "a",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M2-Q13",
+        "question": "Retail company integrates ChatGPT chatbots. Most advantageous capability?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Personalizing shopping experiences"
+          },
+          {
+            "id": "b",
+            "text": "Generating creative content"
+          },
+          {
+            "id": "c",
+            "text": "Providing medical information"
+          },
+          {
+            "id": "d",
+            "text": "Automating administrative tasks"
+          }
+        ],
+        "correctAnswer": "a",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M2-Q14",
+        "question": "Tech startup enhances product recommendations using AI. Most suitable application?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Enhance customer engagement"
+          },
+          {
+            "id": "b",
+            "text": "Optimize manufacturing processes"
+          },
+          {
+            "id": "c",
+            "text": "Secure financial transaction"
+          },
+          {
+            "id": "d",
+            "text": "Streamline project management"
+          }
+        ],
+        "correctAnswer": "a",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M2-Q15",
+        "question": "Ways small businesses can use ChatGPT? (Select all that apply)",
+        "options": [
+          {
+            "id": "a",
+            "text": "Automating customer support"
+          },
+          {
+            "id": "b",
+            "text": "Personalizing customer interactions"
+          },
+          {
+            "id": "c",
+            "text": "Pitching for investment rounds"
+          },
+          {
+            "id": "d",
+            "text": "Streamlining employee communications"
+          }
+        ],
+        "correctAnswer": [
+          "a",
+          "b",
+          "d"
+        ],
+        "isMultiAnswer": true
+      },
+      {
+        "id": "M2-Q16",
+        "question": "How does ChatGPT help with SEO? (Select all that apply)",
+        "options": [
+          {
+            "id": "a",
+            "text": "Generates relevant keyword lists"
+          },
+          {
+            "id": "b",
+            "text": "Meta descriptions improve click-through rate"
+          },
+          {
+            "id": "c",
+            "text": "Generates links to improve ranking"
+          },
+          {
+            "id": "d",
+            "text": "Explains terminology simply"
+          }
+        ],
+        "correctAnswer": [
+          "a",
+          "b",
+          "c"
+        ],
+        "isMultiAnswer": true
+      },
+      {
+        "id": "M2-Q17",
+        "question": "Marketers can use ChatGPT to find previously successful campaigns for unrestricted audiences.",
+        "options": [
+          {
+            "id": "a",
+            "text": "True"
+          },
+          {
+            "id": "b",
+            "text": "False"
+          }
+        ],
+        "correctAnswer": "b",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M2-Q18",
+        "question": "How does ChatGPT help with Content Creation? (Select all that apply)",
+        "options": [
+          {
+            "id": "a",
+            "text": "Producing headlines"
+          },
+          {
+            "id": "b",
+            "text": "Initiating social media posts"
+          },
+          {
+            "id": "c",
+            "text": "Self recording campaign videos"
+          },
+          {
+            "id": "d",
+            "text": "Creating video scripts"
+          }
+        ],
+        "correctAnswer": [
+          "a",
+          "b",
+          "d"
+        ],
+        "isMultiAnswer": true
+      },
+      {
+        "id": "M2-Q19",
+        "question": "ChatGPT can analyze customer data and offer tailored recommendations.",
+        "options": [
+          {
+            "id": "a",
+            "text": "True"
+          },
+          {
+            "id": "b",
+            "text": "False"
+          }
+        ],
+        "correctAnswer": "a",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M2-Q20",
+        "question": "AI Text Classifier can flag AI-generated text but should not be used as definitive measure.",
+        "options": [
+          {
+            "id": "a",
+            "text": "True"
+          },
+          {
+            "id": "b",
+            "text": "False"
+          }
+        ],
+        "correctAnswer": "a",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M2-Q21",
+        "question": "AI Text Classifier could stop spread of? (Select all that apply)",
+        "options": [
+          {
+            "id": "a",
+            "text": "Automated spread of incorrect information"
+          },
+          {
+            "id": "b",
+            "text": "Plagiarism"
+          },
+          {
+            "id": "c",
+            "text": "Chatbots pretending to be human"
+          },
+          {
+            "id": "d",
+            "text": "Text written by humans"
+          }
+        ],
+        "correctAnswer": [
+          "a",
+          "b",
+          "c"
+        ],
+        "isMultiAnswer": true
+      },
+      {
+        "id": "M2-Q22",
+        "question": "AI Text Classifier from OpenAI is a _____ detector.",
+        "options": [
+          {
+            "id": "a",
+            "text": "GPT-2 and OpenAI"
+          },
+          {
+            "id": "b",
+            "text": "GPT-3 and ChatGPT"
+          },
+          {
+            "id": "c",
+            "text": "GPT and OpenAI Tool"
+          }
+        ],
+        "correctAnswer": "b",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M2-Q23",
+        "question": "Applications of AI Text Classifier? (Select all that apply)",
+        "options": [
+          {
+            "id": "a",
+            "text": "Dataset classification"
+          },
+          {
+            "id": "b",
+            "text": "Spam Classifier"
+          },
+          {
+            "id": "c",
+            "text": "Sentiment Classifier"
+          },
+          {
+            "id": "d",
+            "text": "Hate Speech Detection"
+          }
+        ],
+        "correctAnswer": [
+          "b",
+          "c",
+          "d"
+        ],
+        "isMultiAnswer": true
+      },
+      {
+        "id": "M2-Q24",
+        "question": "Limitations of OpenAI's AI Text Classifier? (Select all that apply)",
+        "options": [
+          {
+            "id": "a",
+            "text": "Accurately identifies human vs AI content"
+          },
+          {
+            "id": "b",
+            "text": "Less effective in other languages and unreliable in code"
+          },
+          {
+            "id": "c",
+            "text": "Cannot detect AI text tweaked to fool classifier"
+          }
+        ],
+        "correctAnswer": [
+          "b",
+          "c"
+        ],
+        "isMultiAnswer": true
+      },
+      {
+        "id": "M2-Q25",
+        "question": "Purpose of using Blender in OpenAI Point-E?",
+        "options": [
+          {
+            "id": "a",
+            "text": "To create a collection of 3D models"
+          },
+          {
+            "id": "b",
+            "text": "To cluster 3D models based on CLIP"
+          },
+          {
+            "id": "c",
+            "text": "To transform point clouds into meshes"
+          },
+          {
+            "id": "d",
+            "text": "To develop point cloud diffusion"
+          }
+        ],
+        "correctAnswer": "c",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M2-Q26",
+        "question": "Two AI models used in Point-E?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Text-to-speech and image-to-video"
+          },
+          {
+            "id": "b",
+            "text": "Text-to-image and image-to-3D for Point Clouds"
+          },
+          {
+            "id": "c",
+            "text": "Text-to-3D and image-to-point cloud"
+          },
+          {
+            "id": "d",
+            "text": "Text-to-object and image-to-Mesh"
+          }
+        ],
+        "correctAnswer": "b",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M2-Q27",
+        "question": "Benefit of Point-E for entertainment industry?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Reducing cost of 2D animation"
+          },
+          {
+            "id": "b",
+            "text": "Generating real-world images"
+          },
+          {
+            "id": "c",
+            "text": "Creating slower 3D models"
+          },
+          {
+            "id": "d",
+            "text": "Producing high-quality 3D representations (meshes/NeRFs)"
+          }
+        ],
+        "correctAnswer": "d",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M2-Q28",
+        "question": "Long-run application of Point-E point clouds?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Production of virtual objects for gaming/animation"
+          },
+          {
+            "id": "b",
+            "text": "Creation of 2D animations for marketing"
+          },
+          {
+            "id": "c",
+            "text": "Design of 3D printers"
+          },
+          {
+            "id": "d",
+            "text": "Enhancement of image quality"
+          }
+        ],
+        "correctAnswer": "a",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M2-Q29",
+        "question": "Purpose of Point-E's image-to-3D model?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Generate images without 3D objects"
+          },
+          {
+            "id": "b",
+            "text": "Generate 3D objects without images"
+          },
+          {
+            "id": "c",
+            "text": "Understand word-image associations"
+          },
+          {
+            "id": "d",
+            "text": "Generate efficient understanding of 3D objects with images"
+          }
+        ],
+        "correctAnswer": "d",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M2-Q30",
+        "question": "What is DALL-E?",
+        "options": [
+          {
+            "id": "a",
+            "text": "A Chatbot by Open AI"
+          },
+          {
+            "id": "b",
+            "text": "A language model for NLP"
+          },
+          {
+            "id": "c",
+            "text": "A generative AI model creating images from text prompts"
+          },
+          {
+            "id": "d",
+            "text": "A Dataset with text captions"
+          }
+        ],
+        "correctAnswer": "c",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M2-Q31",
+        "question": "Language model used to build DALL-E?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Generative Pre-trained Transformer"
+          },
+          {
+            "id": "b",
+            "text": "ChatGPT"
+          },
+          {
+            "id": "c",
+            "text": "Diffusion Model"
+          },
+          {
+            "id": "d",
+            "text": "Pixilated Image Model"
+          }
+        ],
+        "correctAnswer": "a",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M2-Q32",
+        "question": "Main difference between DALL-E 1 and DALL-E 2?",
+        "options": [
+          {
+            "id": "a",
+            "text": "DALL-E 1 renders cartoonish; DALL-E 2 realistic"
+          },
+          {
+            "id": "b",
+            "text": "DALL-E 2 is faster"
+          },
+          {
+            "id": "c",
+            "text": "DALL-E 1 generates one image; DALL-E 2 produces variations"
+          },
+          {
+            "id": "d",
+            "text": "DALL-E 2 better at editing"
+          }
+        ],
+        "correctAnswer": "c",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M2-Q33",
+        "question": "One way DALL-E can be utilized in business?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Generating website traffic"
+          },
+          {
+            "id": "b",
+            "text": "Creating social media campaigns"
+          },
+          {
+            "id": "c",
+            "text": "Producing website layouts"
+          },
+          {
+            "id": "d",
+            "text": "Generating customer reviews"
+          }
+        ],
+        "correctAnswer": "c",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M2-Q34",
+        "question": "How does DALL-E work?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Generates images from natural language descriptions"
+          },
+          {
+            "id": "b",
+            "text": "Analyzes user behavior"
+          },
+          {
+            "id": "c",
+            "text": "Uses ML to generate images from scratch"
+          },
+          {
+            "id": "d",
+            "text": "Scans internet for images"
+          }
+        ],
+        "correctAnswer": "a",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M2-Q35",
+        "question": "Which tool allows users to turn photos into art pieces?",
+        "options": [
+          {
+            "id": "a",
+            "text": "DeepArt.io"
+          },
+          {
+            "id": "b",
+            "text": "StyleGAN"
+          },
+          {
+            "id": "c",
+            "text": "Adobe Sensei"
+          },
+          {
+            "id": "d",
+            "text": "GauGAN"
+          }
+        ],
+        "correctAnswer": "a",
+        "isMultiAnswer": false
+      }
+    ]
+  },
+  {
+    "id": "module-3",
+    "name": "Module 3",
+    "questions": [
+      {
+        "id": "M3-Q1",
+        "question": "Tasks wearable fitness tech can perform besides step counting? (Select all that apply)",
+        "options": [
+          {
+            "id": "a",
+            "text": "Monitoring heart rhythm"
+          },
+          {
+            "id": "b",
+            "text": "Detecting vitamin deficiency"
+          },
+          {
+            "id": "c",
+            "text": "Detecting atrial fibrillation"
+          },
+          {
+            "id": "d",
+            "text": "Monitoring blood glucose levels"
+          }
+        ],
+        "correctAnswer": [
+          "a",
+          "c"
+        ],
+        "isMultiAnswer": true
+      },
+      {
+        "id": "M3-Q2",
+        "question": "Wearable tech can ___ (Select all that apply)",
+        "options": [
+          {
+            "id": "a",
+            "text": "Give indications about health"
+          },
+          {
+            "id": "b",
+            "text": "Provide entertainment"
+          },
+          {
+            "id": "c",
+            "text": "Provide easy email communication"
+          },
+          {
+            "id": "d",
+            "text": "Help with social connectivity"
+          }
+        ],
+        "correctAnswer": [
+          "a",
+          "b",
+          "d"
+        ],
+        "isMultiAnswer": true
+      },
+      {
+        "id": "M3-Q3",
+        "question": "Wearable technology using AI helps visually impaired people through NLP and computer vision.",
+        "options": [
+          {
+            "id": "a",
+            "text": "True"
+          },
+          {
+            "id": "b",
+            "text": "False"
+          }
+        ],
+        "correctAnswer": "a",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M3-Q4",
+        "question": "Which AI-powered wearable calculates cardiovascular age and cardio capacity?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Apple Watch"
+          },
+          {
+            "id": "b",
+            "text": "Ultrahuman Ring"
+          },
+          {
+            "id": "c",
+            "text": "Fitbit"
+          },
+          {
+            "id": "d",
+            "text": "Oura Ring"
+          }
+        ],
+        "correctAnswer": "b",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M3-Q5",
+        "question": "How are nerve endings of 'phantom limb syndrome' used in bionics?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Mechanical device with electrodes via computers"
+          },
+          {
+            "id": "b",
+            "text": "E-sensor device electrically stimulates peripheral nerves"
+          },
+          {
+            "id": "c",
+            "text": "Nerve ending cauterized, prosthetics connected"
+          },
+          {
+            "id": "d",
+            "text": "Microprocessors in prosthetic arm externally guided"
+          }
+        ],
+        "correctAnswer": "b",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M3-Q6",
+        "question": "Which of the following is NOT an intelligent wearable?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Smart hearing aids"
+          },
+          {
+            "id": "b",
+            "text": "Vision performance glasses"
+          },
+          {
+            "id": "c",
+            "text": "Smart thermostat"
+          },
+          {
+            "id": "d",
+            "text": "Pet tracking collars"
+          }
+        ],
+        "correctAnswer": "c",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M3-Q7",
+        "question": "Which sensor is used by AI to ensure no accidents caused by user parties?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Lidar"
+          },
+          {
+            "id": "b",
+            "text": "Mass Airflow"
+          },
+          {
+            "id": "c",
+            "text": "NOx"
+          }
+        ],
+        "correctAnswer": "a",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M3-Q8",
+        "question": "Which is a cause of concern for EV users? (Select all that apply)",
+        "options": [
+          {
+            "id": "a",
+            "text": "Range Anxiety"
+          },
+          {
+            "id": "b",
+            "text": "Charging Time"
+          },
+          {
+            "id": "c",
+            "text": "Advanced Driving Systems Assistance"
+          }
+        ],
+        "correctAnswer": [
+          "a",
+          "b"
+        ],
+        "isMultiAnswer": true
+      },
+      {
+        "id": "M3-Q9",
+        "question": "EVs can be upgraded with the use of smart charging technologies.",
+        "options": [
+          {
+            "id": "a",
+            "text": "True"
+          },
+          {
+            "id": "b",
+            "text": "False"
+          }
+        ],
+        "correctAnswer": "a",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M3-Q10",
+        "question": "In EV manufacturing, _____ helps minimize downtime.",
+        "options": [
+          {
+            "id": "a",
+            "text": "Predictive maintenance"
+          },
+          {
+            "id": "b",
+            "text": "Defect detection"
+          },
+          {
+            "id": "c",
+            "text": "Visual inspection system"
+          },
+          {
+            "id": "d",
+            "text": "Root cause analysis"
+          }
+        ],
+        "correctAnswer": "a",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M3-Q11",
+        "question": "For upkeep and monitoring of EV batteries, AI is particularly crucial.",
+        "options": [
+          {
+            "id": "a",
+            "text": "True"
+          },
+          {
+            "id": "b",
+            "text": "False"
+          }
+        ],
+        "correctAnswer": "a",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M3-Q12",
+        "question": "Users in the form of Digital Avatars interact with the online virtual space in the Metaverse.",
+        "options": [
+          {
+            "id": "a",
+            "text": "True"
+          },
+          {
+            "id": "b",
+            "text": "False"
+          }
+        ],
+        "correctAnswer": "a",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M3-Q13",
+        "question": "What makes Metaverse always on and massively scalable?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Inclusive User Interfaces"
+          },
+          {
+            "id": "b",
+            "text": "Artificial Intelligence Operations (AIOps)"
+          },
+          {
+            "id": "c",
+            "text": "Enhanced Smart Contracts"
+          },
+          {
+            "id": "d",
+            "text": "Metaverse Support"
+          }
+        ],
+        "correctAnswer": "b",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M3-Q14",
+        "question": "Emotional Recognition is possible for customisation within the Metaverse.",
+        "options": [
+          {
+            "id": "a",
+            "text": "True"
+          },
+          {
+            "id": "b",
+            "text": "False"
+          }
+        ],
+        "correctAnswer": "a",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M3-Q15",
+        "question": "Metaverse helps to manage ____.",
+        "options": [
+          {
+            "id": "a",
+            "text": "Augmented Reality"
+          },
+          {
+            "id": "b",
+            "text": "Virtual Reality"
+          },
+          {
+            "id": "c",
+            "text": "Crypto Portfolio"
+          },
+          {
+            "id": "d",
+            "text": "Artificial Intelligence"
+          }
+        ],
+        "correctAnswer": "b",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M3-Q16",
+        "question": "Antidemocratic activities in the Metaverse can be identified using ____.",
+        "options": [
+          {
+            "id": "a",
+            "text": "Enhanced Smart Contracts"
+          },
+          {
+            "id": "b",
+            "text": "Intelligent Networking"
+          },
+          {
+            "id": "c",
+            "text": "AIOps"
+          },
+          {
+            "id": "d",
+            "text": "NVIDIA Omniverse"
+          }
+        ],
+        "correctAnswer": "c",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M3-Q17",
+        "question": "How can corporations tap into AI-powered workforce growth? (Select all that apply)",
+        "options": [
+          {
+            "id": "a",
+            "text": "Encouraging experimentation with Gen AI"
+          },
+          {
+            "id": "b",
+            "text": "Starting with small pilot projects"
+          },
+          {
+            "id": "c",
+            "text": "Creating passionate Gen AI enthusiasts"
+          },
+          {
+            "id": "d",
+            "text": "Allowing individuals to leverage legacy skills"
+          }
+        ],
+        "correctAnswer": [
+          "a",
+          "b",
+          "c"
+        ],
+        "isMultiAnswer": true
+      },
+      {
+        "id": "M3-Q18",
+        "question": "AI cannot magnify possibilities for human-complementary technological change.",
+        "options": [
+          {
+            "id": "a",
+            "text": "True"
+          },
+          {
+            "id": "b",
+            "text": "False"
+          }
+        ],
+        "correctAnswer": "b",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M3-Q19",
+        "question": "Which is NOT true about AI in the workplace?",
+        "options": [
+          {
+            "id": "a",
+            "text": "AI is increasing skill sets but not remuneration"
+          },
+          {
+            "id": "b",
+            "text": "Chatbots used by HR for training"
+          },
+          {
+            "id": "c",
+            "text": "Automation may eliminate some but create other jobs"
+          },
+          {
+            "id": "d",
+            "text": "AI creates opportunities in AR and IoT"
+          }
+        ],
+        "correctAnswer": "a",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M3-Q20",
+        "question": "For a career in AI, it is critical to understand business domain requirements solvable through AI.",
+        "options": [
+          {
+            "id": "a",
+            "text": "True"
+          },
+          {
+            "id": "b",
+            "text": "False"
+          }
+        ],
+        "correctAnswer": "a",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M3-Q21",
+        "question": "Through ____ companies analyze customer preferences to deliver tailored recommendations.",
+        "options": [
+          {
+            "id": "a",
+            "text": "AI-driven algorithms"
+          },
+          {
+            "id": "b",
+            "text": "Predictive analytics"
+          },
+          {
+            "id": "c",
+            "text": "Automation techniques"
+          },
+          {
+            "id": "d",
+            "text": "Data analysis and insights"
+          }
+        ],
+        "correctAnswer": "a",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M3-Q22",
+        "question": "AI has the power to reduce busywork and enable workers to focus on strategic tasks.",
+        "options": [
+          {
+            "id": "a",
+            "text": "True"
+          },
+          {
+            "id": "b",
+            "text": "False"
+          }
+        ],
+        "correctAnswer": "a",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M3-Q23",
+        "question": "Role AI plays in city planning? (Select all that apply)",
+        "options": [
+          {
+            "id": "a",
+            "text": "Urban infrastructure management"
+          },
+          {
+            "id": "b",
+            "text": "Smart and sustainable city planning"
+          },
+          {
+            "id": "c",
+            "text": "Traffic management and urban monitoring"
+          },
+          {
+            "id": "d",
+            "text": "Population management"
+          }
+        ],
+        "correctAnswer": [
+          "a",
+          "b",
+          "c"
+        ],
+        "isMultiAnswer": true
+      },
+      {
+        "id": "M3-Q24",
+        "question": "AI tools enable designers to rapidly explore and refine designs before production.",
+        "options": [
+          {
+            "id": "a",
+            "text": "True"
+          },
+          {
+            "id": "b",
+            "text": "False"
+          }
+        ],
+        "correctAnswer": "a",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M3-Q25",
+        "question": "All current AI solutions belong to the _____ class.",
+        "options": [
+          {
+            "id": "a",
+            "text": "Artificial Intelligence Primer"
+          },
+          {
+            "id": "b",
+            "text": "Artificial Network"
+          },
+          {
+            "id": "c",
+            "text": "Artificial Model Foundation"
+          },
+          {
+            "id": "d",
+            "text": "Artificial Narrow Intelligence"
+          }
+        ],
+        "correctAnswer": "d",
+        "isMultiAnswer": false
+      }
+    ]
+  },
+  {
+    "id": "module-4",
+    "name": "Module 4",
+    "questions": [
+      {
+        "id": "M4-Q1",
+        "question": "Which statement is NOT true about Edge AI?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Near real-time analytics is possible"
+          },
+          {
+            "id": "b",
+            "text": "Edge operates in open network making info theft easier"
+          },
+          {
+            "id": "c",
+            "text": "Model works without connection to outside world"
+          },
+          {
+            "id": "d",
+            "text": "Reduced latency brings cost reductions"
+          }
+        ],
+        "correctAnswer": [
+          "b"
+        ],
+        "isMultiAnswer": true
+      },
+      {
+        "id": "M4-Q2",
+        "question": "Predictive Maintenance is likely one of the most common use cases for TinyML.",
+        "options": [
+          {
+            "id": "a",
+            "text": "True"
+          },
+          {
+            "id": "b",
+            "text": "False"
+          }
+        ],
+        "correctAnswer": "a",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M4-Q3",
+        "question": "Which statements about TinyML are true? (Select all that apply)",
+        "options": [
+          {
+            "id": "a",
+            "text": "TinyML makes AI ubiquitous and accessible"
+          },
+          {
+            "id": "b",
+            "text": "Cloud AI doesn't suffer from edge latency"
+          },
+          {
+            "id": "c",
+            "text": "TinyML needs cloud/Internet connectivity"
+          },
+          {
+            "id": "d",
+            "text": "TinyML is most cost-effective for IoT devices"
+          }
+        ],
+        "correctAnswer": [
+          "a",
+          "d"
+        ],
+        "isMultiAnswer": true
+      },
+      {
+        "id": "M4-Q4",
+        "question": "Edge AI enables ML tasks on a _____ device.",
+        "options": [
+          {
+            "id": "a",
+            "text": "Cloud-enabled"
+          },
+          {
+            "id": "b",
+            "text": "Local"
+          },
+          {
+            "id": "c",
+            "text": "Internet-connected"
+          },
+          {
+            "id": "d",
+            "text": "Battery-operated"
+          }
+        ],
+        "correctAnswer": "b",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M4-Q5",
+        "question": "Benefits of using TinyML? (Select all that apply)",
+        "options": [
+          {
+            "id": "a",
+            "text": "Low power consumption"
+          },
+          {
+            "id": "b",
+            "text": "High latency"
+          },
+          {
+            "id": "c",
+            "text": "More expensive"
+          },
+          {
+            "id": "d",
+            "text": "Data privacy"
+          }
+        ],
+        "correctAnswer": [
+          "a",
+          "d"
+        ],
+        "isMultiAnswer": true
+      },
+      {
+        "id": "M4-Q6",
+        "question": "Which is True about Quantum Computers?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Deals with many options to compute information"
+          },
+          {
+            "id": "b",
+            "text": "Based on quantum physics which makes it slower"
+          },
+          {
+            "id": "c",
+            "text": "Quantum Computers study atoms and particles"
+          },
+          {
+            "id": "d",
+            "text": "They use much more energy than traditional computers"
+          }
+        ],
+        "correctAnswer": "a",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M4-Q7",
+        "question": "Quantum Computers use qubits that can represent 0 and 1 simultaneously in superposition.",
+        "options": [
+          {
+            "id": "a",
+            "text": "True"
+          },
+          {
+            "id": "b",
+            "text": "False"
+          }
+        ],
+        "correctAnswer": "a",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M4-Q8",
+        "question": "Which company discovered entangling qubits reduced error rate by half?",
+        "options": [
+          {
+            "id": "a",
+            "text": "JPMorgan Chase"
+          },
+          {
+            "id": "b",
+            "text": "IBM"
+          },
+          {
+            "id": "c",
+            "text": "Microsoft"
+          },
+          {
+            "id": "d",
+            "text": "Rigetti Computing"
+          }
+        ],
+        "correctAnswer": "a",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M4-Q9",
+        "question": "Areas where Quantum Computing is applied? (Select all that apply)",
+        "options": [
+          {
+            "id": "a",
+            "text": "Pricing optimization and fraud detection"
+          },
+          {
+            "id": "b",
+            "text": "Drugs discovery and battery chemistry"
+          },
+          {
+            "id": "c",
+            "text": "Plant biology and farming techniques"
+          },
+          {
+            "id": "d",
+            "text": "Pedagogy and cognitive learning"
+          }
+        ],
+        "correctAnswer": [
+          "a",
+          "b"
+        ],
+        "isMultiAnswer": true
+      },
+      {
+        "id": "M4-Q10",
+        "question": "In which domain cannot Quantum Computing be used?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Complex manufacturing"
+          },
+          {
+            "id": "b",
+            "text": "Drug discovery"
+          },
+          {
+            "id": "c",
+            "text": "Financial services"
+          },
+          {
+            "id": "d",
+            "text": "Classical computing"
+          }
+        ],
+        "correctAnswer": "d",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M4-Q11",
+        "question": "Educational institution managing sensitive student data across campuses. What to prioritize?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Cloud computing security solutions"
+          },
+          {
+            "id": "b",
+            "text": "Quantum computing"
+          },
+          {
+            "id": "c",
+            "text": "Blockchain technology"
+          },
+          {
+            "id": "d",
+            "text": "Machine learning algorithms"
+          }
+        ],
+        "correctAnswer": "a",
+        "isMultiAnswer": false
+      }
+    ]
+  },
+  {
+    "id": "module-5",
+    "name": "Module 5",
+    "questions": [
+      {
+        "id": "M5-Q1",
+        "question": "Core components of Phase 1.0 of the evolution of Big Data?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Database management and Data warehousing"
+          },
+          {
+            "id": "b",
+            "text": "Semi-structured and Unstructured Data"
+          },
+          {
+            "id": "c",
+            "text": "Sensor-based and Internet-enabled devices"
+          }
+        ],
+        "correctAnswer": "a",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M5-Q2",
+        "question": "Big Data Analytics majorly helps in the natural assets industry with?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Improving customer relationships"
+          },
+          {
+            "id": "b",
+            "text": "Preventing production downtimes"
+          },
+          {
+            "id": "c",
+            "text": "Analyzing geographical, text, and temporal data"
+          },
+          {
+            "id": "d",
+            "text": "Predicting customer demand"
+          }
+        ],
+        "correctAnswer": [
+          "c",
+          "a"
+        ],
+        "isMultiAnswer": true
+      },
+      {
+        "id": "M5-Q3",
+        "question": "___ is a serverless, cost-effective enterprise data warehouse across clouds.",
+        "options": [
+          {
+            "id": "a",
+            "text": "BigQuery"
+          },
+          {
+            "id": "b",
+            "text": "Azure"
+          },
+          {
+            "id": "c",
+            "text": "IBM Cloud"
+          },
+          {
+            "id": "d",
+            "text": "Teradata"
+          }
+        ],
+        "correctAnswer": "a",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M5-Q4",
+        "question": "Generative AI revolutionizes data analysis by generating synthetic datasets and automating content creation.",
+        "options": [
+          {
+            "id": "a",
+            "text": "True"
+          },
+          {
+            "id": "b",
+            "text": "False"
+          }
+        ],
+        "correctAnswer": "a",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M5-Q5",
+        "question": "Which Big Data trend helps organizations maintain control while allowing stakeholder access?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Dark Data"
+          },
+          {
+            "id": "b",
+            "text": "Data Lake"
+          },
+          {
+            "id": "c",
+            "text": "Data Governance"
+          },
+          {
+            "id": "d",
+            "text": "Data as Service"
+          }
+        ],
+        "correctAnswer": "c",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M5-Q6",
+        "question": "Traditional structured data is complemented by unstructured text, images, audio, video, and sensor data.",
+        "options": [
+          {
+            "id": "a",
+            "text": "True"
+          },
+          {
+            "id": "b",
+            "text": "False"
+          }
+        ],
+        "correctAnswer": "a",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M5-Q7",
+        "question": "A centralized repository storing structured, unstructured and semi-structured data at any scale is called?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Dataset"
+          },
+          {
+            "id": "b",
+            "text": "Database"
+          },
+          {
+            "id": "c",
+            "text": "Data Lake"
+          },
+          {
+            "id": "d",
+            "text": "Data Warehouse"
+          }
+        ],
+        "correctAnswer": "c",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M5-Q8",
+        "question": "Data visualization shows statistical and numerical data to communicate their ____.",
+        "options": [
+          {
+            "id": "a",
+            "text": "meanings"
+          },
+          {
+            "id": "b",
+            "text": "decisions"
+          },
+          {
+            "id": "c",
+            "text": "conclusions"
+          },
+          {
+            "id": "d",
+            "text": "reference"
+          }
+        ],
+        "correctAnswer": "a",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M5-Q9",
+        "question": "Benefits of analyzing Big Data? (Select all that apply)",
+        "options": [
+          {
+            "id": "a",
+            "text": "Improving future prospects over current problems"
+          },
+          {
+            "id": "b",
+            "text": "Innovation and product development"
+          },
+          {
+            "id": "c",
+            "text": "Enhancing customer experience"
+          },
+          {
+            "id": "d",
+            "text": "Faster and efficient decision making"
+          }
+        ],
+        "correctAnswer": [
+          "b",
+          "c",
+          "d"
+        ],
+        "isMultiAnswer": true
+      },
+      {
+        "id": "M5-Q10",
+        "question": "Which analytics describes or summarizes existing data to understand what happened?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Descriptive Analytics"
+          },
+          {
+            "id": "b",
+            "text": "Diagnostic Analytics"
+          },
+          {
+            "id": "c",
+            "text": "Predictive Analytics"
+          },
+          {
+            "id": "d",
+            "text": "Prescriptive Analytics"
+          }
+        ],
+        "correctAnswer": "a",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M5-Q11",
+        "question": "Big Data Analytics examines large data sets to discover unknown patterns and hidden correlations.",
+        "options": [
+          {
+            "id": "a",
+            "text": "True"
+          },
+          {
+            "id": "b",
+            "text": "False"
+          }
+        ],
+        "correctAnswer": "a",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M5-Q12",
+        "question": "Which analytics predicts the future course of action?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Predictive Analytics"
+          },
+          {
+            "id": "b",
+            "text": "Prescriptive Analytics"
+          },
+          {
+            "id": "c",
+            "text": "Diagnostic Analytics"
+          }
+        ],
+        "correctAnswer": "b",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M5-Q13",
+        "question": "Customer Segmentation and Differential Pricing can be achieved through Big Data Analytics.",
+        "options": [
+          {
+            "id": "a",
+            "text": "True"
+          },
+          {
+            "id": "b",
+            "text": "False"
+          }
+        ],
+        "correctAnswer": "a",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M5-Q14",
+        "question": "Which data analysis fails to cope with Big Data (huge structured and unstructured)?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Traditional"
+          },
+          {
+            "id": "b",
+            "text": "New"
+          },
+          {
+            "id": "c",
+            "text": "Low"
+          }
+        ],
+        "correctAnswer": "a",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M5-Q15",
+        "question": "Healthcare big data collects and analyzes vast patient and clinical data too complex for traditional processing.",
+        "options": [
+          {
+            "id": "a",
+            "text": "True"
+          },
+          {
+            "id": "b",
+            "text": "False"
+          }
+        ],
+        "correctAnswer": "a",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M5-Q16",
+        "question": "Which is NOT a key component of DBMS?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Runtime Database Manager"
+          },
+          {
+            "id": "b",
+            "text": "Equitable Manager"
+          },
+          {
+            "id": "c",
+            "text": "Database Manager"
+          }
+        ],
+        "correctAnswer": "b",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M5-Q17",
+        "question": "RDBMSes store data in tables and most commercial systems use:",
+        "options": [
+          {
+            "id": "a",
+            "text": "SQL"
+          },
+          {
+            "id": "b",
+            "text": "Apache"
+          },
+          {
+            "id": "c",
+            "text": "WorkFusion"
+          }
+        ],
+        "correctAnswer": "a",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M5-Q18",
+        "question": "The RDBMS table format does not provide organized structural manner for matching entries by queries.",
+        "options": [
+          {
+            "id": "a",
+            "text": "True"
+          },
+          {
+            "id": "b",
+            "text": "False"
+          }
+        ],
+        "correctAnswer": "b",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M5-Q19",
+        "question": "Which is an open source RDBMS with a client-server model?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Oracle"
+          },
+          {
+            "id": "b",
+            "text": "MySQL"
+          },
+          {
+            "id": "c",
+            "text": "MS-Access"
+          }
+        ],
+        "correctAnswer": "b",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M5-Q20",
+        "question": "MongoDB supports ad-hoc queries and document-based queries.",
+        "options": [
+          {
+            "id": "a",
+            "text": "True"
+          },
+          {
+            "id": "b",
+            "text": "False"
+          }
+        ],
+        "correctAnswer": "a",
+        "isMultiAnswer": false
+      }
+    ]
+  },
+  {
+    "id": "module-6---iot",
+    "name": "Module 6 - IoT",
+    "questions": [
+      {
+        "id": "M6Q1",
+        "question": "The Energy sector leverages IoT devices in _____________.",
+        "options": [
+          {
+            "id": "a",
+            "text": "Wireless grid communication"
+          },
+          {
+            "id": "b",
+            "text": "Smart wearables"
+          },
+          {
+            "id": "c",
+            "text": "Robotics"
+          },
+          {
+            "id": "d",
+            "text": "Engine management"
+          }
+        ],
+        "correctAnswer": "a",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M6Q2",
+        "question": "Which is the first stage in every IoT architecture?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Sensors and Actuators"
+          },
+          {
+            "id": "b",
+            "text": "Internet Gateways and Data Acquisition Systems"
+          },
+          {
+            "id": "c",
+            "text": "Edge IT"
+          },
+          {
+            "id": "d",
+            "text": "Data Center and Cloud"
+          }
+        ],
+        "correctAnswer": "a",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M6Q3",
+        "question": "IoT devices are naturally vulnerable to _______ threats.",
+        "options": [
+          {
+            "id": "a",
+            "text": "Sensors"
+          },
+          {
+            "id": "b",
+            "text": "Heterogeneity"
+          },
+          {
+            "id": "c",
+            "text": "Security"
+          },
+          {
+            "id": "d",
+            "text": "Connectivity"
+          }
+        ],
+        "correctAnswer": "c",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M6Q4",
+        "question": "IoT is a paradigm that involves ubiquitous presence in the environment.",
+        "options": [
+          {
+            "id": "a",
+            "text": "True"
+          },
+          {
+            "id": "b",
+            "text": "False"
+          }
+        ],
+        "correctAnswer": "a",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M6Q5",
+        "question": "Which IoT solutions are used in the Banking sector?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Smart ATMs"
+          },
+          {
+            "id": "b",
+            "text": "Wearable devices"
+          },
+          {
+            "id": "c",
+            "text": "Mobile point-of-sale systems"
+          },
+          {
+            "id": "d",
+            "text": "Bank credit or debit cards"
+          }
+        ],
+        "correctAnswer": [
+          "a",
+          "b",
+          "c"
+        ],
+        "isMultiAnswer": true
+      },
+      {
+        "id": "M6Q6",
+        "question": "You're hosting a party and guests have arrived. The smart security camera will:",
+        "options": [
+          {
+            "id": "a",
+            "text": "Detect people, report to AI Control Center and auto turn on lights"
+          },
+          {
+            "id": "b",
+            "text": "Wait for owner's instructions to turn on lights"
+          }
+        ],
+        "correctAnswer": [
+          "a"
+        ],
+        "isMultiAnswer": true
+      },
+      {
+        "id": "M6Q7",
+        "question": "The latest advances of technology have tremendous potential to:",
+        "options": [
+          {
+            "id": "a",
+            "text": "Impact the jobs of the people"
+          },
+          {
+            "id": "b",
+            "text": "Benefit people by increasing efficiency and reducing waste"
+          }
+        ],
+        "correctAnswer": "b",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M6Q8",
+        "question": "IoT can analyze mall traffic so stores in malls can enhance the customer's shopping experience while reducing overhead.",
+        "options": [
+          {
+            "id": "a",
+            "text": "True"
+          },
+          {
+            "id": "b",
+            "text": "False"
+          }
+        ],
+        "correctAnswer": "a",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M6Q9",
+        "question": "The IoT is a network of Internet-linked devices, vehicles, and appliances that can collect and share data without human interaction.",
+        "options": [
+          {
+            "id": "a",
+            "text": "True"
+          },
+          {
+            "id": "b",
+            "text": "False"
+          }
+        ],
+        "correctAnswer": "a",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M6Q10",
+        "question": "Which of the following challenges do connected cars face?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Data security"
+          },
+          {
+            "id": "b",
+            "text": "Network connectivity"
+          },
+          {
+            "id": "c",
+            "text": "Predictive maintenance"
+          },
+          {
+            "id": "d",
+            "text": "Operating system issues"
+          }
+        ],
+        "correctAnswer": [
+          "a",
+          "b",
+          "d"
+        ],
+        "isMultiAnswer": true
+      },
+      {
+        "id": "M6Q11",
+        "question": "Which IIoT elements can be used in factories to tackle manufacturing challenges?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Only A (Installing sensors to monitor production flow)"
+          },
+          {
+            "id": "b",
+            "text": "Only B (Creating predictive models)"
+          },
+          {
+            "id": "c",
+            "text": "Both A and B"
+          }
+        ],
+        "correctAnswer": "c",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M6Q12",
+        "question": "Which of the following are the biggest users of IIoT?",
+        "options": [
+          {
+            "id": "a",
+            "text": "A and B (Automotive Fleet Management & Manufacturing)"
+          },
+          {
+            "id": "b",
+            "text": "B and C"
+          },
+          {
+            "id": "c",
+            "text": "A and C"
+          }
+        ],
+        "correctAnswer": "a",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M6Q13",
+        "question": "As IoT devices collect vast amounts of user data, the potential for hacking and data breaches increases.",
+        "options": [
+          {
+            "id": "a",
+            "text": "True"
+          },
+          {
+            "id": "b",
+            "text": "False"
+          }
+        ],
+        "correctAnswer": "a",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M6Q14",
+        "question": "What challenges do businesses encounter during IoT integration into manufacturing?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Data overload and analytics"
+          },
+          {
+            "id": "b",
+            "text": "Interoperability hurdles"
+          },
+          {
+            "id": "c",
+            "text": "Increased human interventions"
+          },
+          {
+            "id": "d",
+            "text": "Cost of implementation"
+          }
+        ],
+        "correctAnswer": [
+          "a",
+          "b",
+          "d"
+        ],
+        "isMultiAnswer": true
+      },
+      {
+        "id": "M6Q15",
+        "question": "Which are the top benefits of IIoT in manufacturing?",
+        "options": [
+          {
+            "id": "a",
+            "text": "A and B"
+          },
+          {
+            "id": "b",
+            "text": "A, B and C"
+          },
+          {
+            "id": "c",
+            "text": "B and C"
+          }
+        ],
+        "correctAnswer": [
+          "b",
+          "b"
+        ],
+        "isMultiAnswer": true
+      },
+      {
+        "id": "M6Q16",
+        "question": "Which of the following is NOT an example of digital payment?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Debit card"
+          },
+          {
+            "id": "b",
+            "text": "Mobile wallet"
+          },
+          {
+            "id": "c",
+            "text": "Cheque"
+          },
+          {
+            "id": "d",
+            "text": "SWIFT"
+          }
+        ],
+        "correctAnswer": "c",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M6Q17",
+        "question": "Which statement is NOT true about digital payments?",
+        "options": [
+          {
+            "id": "a",
+            "text": "UPI payment can be made directly from your bank account"
+          },
+          {
+            "id": "b",
+            "text": "Most common PoS machine is a card swiping machine"
+          },
+          {
+            "id": "c",
+            "text": "A prepaid bank card is linked with your bank account and can be used numerous times"
+          },
+          {
+            "id": "d",
+            "text": "Paytm, Freecharge, and Mobikwik are mobile wallets"
+          }
+        ],
+        "correctAnswer": "c",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M6Q18",
+        "question": "Which step in a digital payment transaction involves the encryption of your payment information?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Initiation"
+          },
+          {
+            "id": "b",
+            "text": "Authentication"
+          },
+          {
+            "id": "c",
+            "text": "Authorization"
+          },
+          {
+            "id": "d",
+            "text": "Completion"
+          }
+        ],
+        "correctAnswer": "b",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M6Q19",
+        "question": "Which digital payments app has opened its own bank registered under the RBI?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Paytm"
+          },
+          {
+            "id": "b",
+            "text": "PhonePe"
+          },
+          {
+            "id": "c",
+            "text": "GPay"
+          },
+          {
+            "id": "d",
+            "text": "Amazon Pay"
+          }
+        ],
+        "correctAnswer": "a",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M6Q20",
+        "question": "Digital payments are making a significant impact on the economy.",
+        "options": [
+          {
+            "id": "a",
+            "text": "True"
+          },
+          {
+            "id": "b",
+            "text": "False"
+          }
+        ],
+        "correctAnswer": "a",
+        "isMultiAnswer": false
+      }
+    ]
+  },
+  {
+    "id": "module-7---cloud-computing",
+    "name": "Module 7 - Cloud Computing",
+    "questions": [
+      {
+        "id": "M7Q1",
+        "question": "Which one is NOT one of the big names in the FinTech cloud computing sector?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Amazon Web Services"
+          },
+          {
+            "id": "b",
+            "text": "Microsoft Silverlight"
+          },
+          {
+            "id": "c",
+            "text": "Google Virtual Cloud"
+          },
+          {
+            "id": "d",
+            "text": "Microsoft Azure"
+          }
+        ],
+        "correctAnswer": "b",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M7Q2",
+        "question": "The resilience of Cloud deployments:",
+        "options": [
+          {
+            "id": "a",
+            "text": "Increases Uptime"
+          },
+          {
+            "id": "b",
+            "text": "Simplifies Disaster Recovery"
+          },
+          {
+            "id": "c",
+            "text": "Both of the above"
+          }
+        ],
+        "correctAnswer": "c",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M7Q3",
+        "question": "An example of PaaS is:",
+        "options": [
+          {
+            "id": "a",
+            "text": "Rackspace Cloud"
+          },
+          {
+            "id": "b",
+            "text": "Mosso"
+          },
+          {
+            "id": "c",
+            "text": "Amazon EC2"
+          },
+          {
+            "id": "d",
+            "text": "GMail"
+          }
+        ],
+        "correctAnswer": "b",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M7Q4",
+        "question": "Which cloud service model is the most widely used in the world?",
+        "options": [
+          {
+            "id": "a",
+            "text": "SaaS"
+          },
+          {
+            "id": "b",
+            "text": "PaaS"
+          },
+          {
+            "id": "c",
+            "text": "IaaS"
+          },
+          {
+            "id": "d",
+            "text": "All of them"
+          }
+        ],
+        "correctAnswer": "a",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M7Q5",
+        "question": "Amazon Elastic MapReduce offers a ______ framework to process large amounts of data.",
+        "options": [
+          {
+            "id": "a",
+            "text": "R"
+          },
+          {
+            "id": "b",
+            "text": "Hadoop"
+          },
+          {
+            "id": "c",
+            "text": "Python"
+          },
+          {
+            "id": "d",
+            "text": "None of the above"
+          }
+        ],
+        "correctAnswer": "b",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M7Q6",
+        "question": "Cloud Computing can store a tremendous amount of data which can also help:",
+        "options": [
+          {
+            "id": "a",
+            "text": "Big Data Analytics"
+          },
+          {
+            "id": "b",
+            "text": "Action Items"
+          },
+          {
+            "id": "c",
+            "text": "Cloud Networks"
+          }
+        ],
+        "correctAnswer": "a",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M7Q7",
+        "question": "Disaster Recovery is one of the major benefits of Cloud Computing.",
+        "options": [
+          {
+            "id": "a",
+            "text": "True"
+          },
+          {
+            "id": "b",
+            "text": "False"
+          }
+        ],
+        "correctAnswer": "a",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M7Q8",
+        "question": "Cloud Computing in e-commerce refers to hosting and delivering information through computer device on the internet via a network of servers.",
+        "options": [
+          {
+            "id": "a",
+            "text": "True"
+          },
+          {
+            "id": "b",
+            "text": "False"
+          }
+        ],
+        "correctAnswer": "a",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M7Q9",
+        "question": "Cloud Computing architect also depends on:",
+        "options": [
+          {
+            "id": "a",
+            "text": "Information, Technology, and Application"
+          },
+          {
+            "id": "b",
+            "text": "Information, Bandwidth, and Application"
+          },
+          {
+            "id": "c",
+            "text": "Type, Security, and Application"
+          }
+        ],
+        "correctAnswer": [
+          "a",
+          "a"
+        ],
+        "isMultiAnswer": true
+      },
+      {
+        "id": "M7Q10",
+        "question": "Computing is believed to facilitate greater collaboration and enhance the learning opportunities.",
+        "options": [
+          {
+            "id": "a",
+            "text": "True"
+          },
+          {
+            "id": "b",
+            "text": "False"
+          }
+        ],
+        "correctAnswer": "a",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M7Q11",
+        "question": "SaaS is also known as hosted software or on-demand software.",
+        "options": [
+          {
+            "id": "a",
+            "text": "True"
+          },
+          {
+            "id": "b",
+            "text": "False"
+          }
+        ],
+        "correctAnswer": "a",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M7Q12",
+        "question": "The PaaS service delivery model allows a customer to rent virtualized servers and associated services used to run/develop/host applications.",
+        "options": [
+          {
+            "id": "a",
+            "text": "True"
+          },
+          {
+            "id": "b",
+            "text": "False"
+          }
+        ],
+        "correctAnswer": "a",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M7Q13",
+        "question": "Grunge Computing is about moving local computing to local devices in a highly distributed system, typically as a layer around a cloud computing core.",
+        "options": [
+          {
+            "id": "a",
+            "text": "True"
+          },
+          {
+            "id": "b",
+            "text": "False"
+          }
+        ],
+        "correctAnswer": "b",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M7Q14",
+        "question": "iPaaS offerings in the cloud from which providers let users implement data mapping, transformations?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Apache Spark"
+          },
+          {
+            "id": "b",
+            "text": "Dell Boomi"
+          },
+          {
+            "id": "c",
+            "text": "WorkFusion"
+          }
+        ],
+        "correctAnswer": "b",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M7Q15",
+        "question": "Infrastructure as a Service and Hardware as a Service are two completely different things.",
+        "options": [
+          {
+            "id": "a",
+            "text": "True"
+          },
+          {
+            "id": "b",
+            "text": "False"
+          }
+        ],
+        "correctAnswer": "b",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M7Q16",
+        "question": "Which Cloud Service is a user-friendly, no-code platform that allows one to create business applications?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Ninox"
+          },
+          {
+            "id": "b",
+            "text": "Amazon Aurora"
+          },
+          {
+            "id": "c",
+            "text": "IBM DB2"
+          }
+        ],
+        "correctAnswer": "a",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M7Q17",
+        "question": "Which Cloud programming language is known for its reusability and modular approach?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Python"
+          },
+          {
+            "id": "b",
+            "text": "Java"
+          },
+          {
+            "id": "c",
+            "text": "Ruby"
+          }
+        ],
+        "correctAnswer": "b",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M7Q18",
+        "question": "Which Cloud-based IDE is web-based and offers full stack browser environment to code anywhere, anytime?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Codeanywhere"
+          },
+          {
+            "id": "b",
+            "text": "Eclipse Orion"
+          },
+          {
+            "id": "c",
+            "text": "Codenvy"
+          }
+        ],
+        "correctAnswer": "c",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M7Q19",
+        "question": "Which Cloud Monitoring tool manages all aspects of the business's Private, Public, and Hybrid cloud?",
+        "options": [
+          {
+            "id": "a",
+            "text": "CA Unified Infrastructure Management"
+          },
+          {
+            "id": "b",
+            "text": "Microsoft Cloud Monitoring"
+          },
+          {
+            "id": "c",
+            "text": "Amazon Cloud Watch"
+          }
+        ],
+        "correctAnswer": "a",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M7Q20",
+        "question": "Which of the following is the second phase of a typical Cloud Migration Framework?",
+        "options": [
+          {
+            "id": "a",
+            "text": "IT Infrastructure Discovery and Assessment"
+          },
+          {
+            "id": "b",
+            "text": "Operate and Optimize"
+          },
+          {
+            "id": "c",
+            "text": "Legacy IT to Cloud Operations Migration"
+          }
+        ],
+        "correctAnswer": "c",
+        "isMultiAnswer": false
+      }
+    ]
+  },
+  {
+    "id": "module-8---cybersecurity",
+    "name": "Module 8 - Cybersecurity",
+    "questions": [
+      {
+        "id": "M8Q1",
+        "question": "_________ uses software and hardware methods to tackle external threats that can arise in the development stage of an application.",
+        "options": [
+          {
+            "id": "a",
+            "text": "Disaster Recovery"
+          },
+          {
+            "id": "b",
+            "text": "Application Security"
+          },
+          {
+            "id": "c",
+            "text": "Information Security"
+          },
+          {
+            "id": "d",
+            "text": "Endpoint Security"
+          }
+        ],
+        "correctAnswer": "b",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M8Q2",
+        "question": "Critical Infrastructure does not include:",
+        "options": [
+          {
+            "id": "a",
+            "text": "Electricity Grid"
+          },
+          {
+            "id": "b",
+            "text": "Water Purification"
+          },
+          {
+            "id": "c",
+            "text": "Traffic Lights"
+          },
+          {
+            "id": "d",
+            "text": "Cooking Gas Lines"
+          }
+        ],
+        "correctAnswer": "d",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M8Q3",
+        "question": "The full form of SEG is:",
+        "options": [
+          {
+            "id": "a",
+            "text": "Secure Email Gateway"
+          },
+          {
+            "id": "b",
+            "text": "Secure Ecommerce Gateway"
+          },
+          {
+            "id": "c",
+            "text": "Security Email Gateway"
+          },
+          {
+            "id": "d",
+            "text": "Secure Email Gate"
+          }
+        ],
+        "correctAnswer": "a",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M8Q4",
+        "question": "Application security uses software and hardware methods to tackle external threats.",
+        "options": [
+          {
+            "id": "a",
+            "text": "True"
+          },
+          {
+            "id": "b",
+            "text": "False"
+          }
+        ],
+        "correctAnswer": "a",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M8Q5",
+        "question": "Who alongside the FDA recently launched a joint initiative to increase coordination in dealing with threats related to medical devices?",
+        "options": [
+          {
+            "id": "a",
+            "text": "HHS"
+          },
+          {
+            "id": "b",
+            "text": "DHS"
+          },
+          {
+            "id": "c",
+            "text": "LHS"
+          },
+          {
+            "id": "d",
+            "text": "AHS"
+          }
+        ],
+        "correctAnswer": "b",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M8Q6",
+        "question": "Prioritizing simple security strategies is the best way to defeat evolving security threats.",
+        "options": [
+          {
+            "id": "a",
+            "text": "True"
+          },
+          {
+            "id": "b",
+            "text": "False"
+          }
+        ],
+        "correctAnswer": "b",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M8Q7",
+        "question": "The easiest way for attackers to gain network access is to:",
+        "options": [
+          {
+            "id": "a",
+            "text": "Leverage existing vulnerabilities"
+          },
+          {
+            "id": "b",
+            "text": "Creating new vulnerabilities"
+          },
+          {
+            "id": "c",
+            "text": "Send Spam mails"
+          }
+        ],
+        "correctAnswer": "a",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M8Q8",
+        "question": "A cybersecurity framework can be any document that defines procedures and goals to guide more detailed cybersecurity policies.",
+        "options": [
+          {
+            "id": "a",
+            "text": "True"
+          },
+          {
+            "id": "b",
+            "text": "False"
+          }
+        ],
+        "correctAnswer": "a",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M8Q9",
+        "question": "Which of the following is the recommended security standard for electronic payment processing?",
+        "options": [
+          {
+            "id": "a",
+            "text": "COBIT"
+          },
+          {
+            "id": "b",
+            "text": "HiPAA rules"
+          },
+          {
+            "id": "c",
+            "text": "PCI DSS"
+          }
+        ],
+        "correctAnswer": "c",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M8Q10",
+        "question": "It's impractical to use multiple cybersecurity solutions to address different threats to your infrastructure.",
+        "options": [
+          {
+            "id": "a",
+            "text": "True"
+          },
+          {
+            "id": "b",
+            "text": "False"
+          }
+        ],
+        "correctAnswer": "b",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M8Q11",
+        "question": "Hackers are always looking for opportunities to invade privacy and steal data that's of crucial importance.",
+        "options": [
+          {
+            "id": "a",
+            "text": "True"
+          },
+          {
+            "id": "b",
+            "text": "False"
+          }
+        ],
+        "correctAnswer": "a",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M8Q12",
+        "question": "A cyber attack is any type of offensive action that targets computer information systems using various methods to steal, alter or destroy data.",
+        "options": [
+          {
+            "id": "a",
+            "text": "True"
+          },
+          {
+            "id": "b",
+            "text": "False"
+          }
+        ],
+        "correctAnswer": "a",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M8Q13",
+        "question": "One of the easiest ways your information can become hacked is through easy-to-guess passwords.",
+        "options": [
+          {
+            "id": "a",
+            "text": "True"
+          },
+          {
+            "id": "b",
+            "text": "False"
+          }
+        ],
+        "correctAnswer": "a",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M8Q14",
+        "question": "Which attack involves using IP spoofing and the ICMP to saturate a target network with traffic?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Smurf attack"
+          },
+          {
+            "id": "b",
+            "text": "Teardrop attack"
+          },
+          {
+            "id": "c",
+            "text": "Replay attack"
+          }
+        ],
+        "correctAnswer": "a",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M8Q15",
+        "question": "Botnets are the millions of systems infected with malware under hacker control in order to carry out DDoS attacks.",
+        "options": [
+          {
+            "id": "a",
+            "text": "True"
+          },
+          {
+            "id": "b",
+            "text": "False"
+          }
+        ],
+        "correctAnswer": "a",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M8Q16",
+        "question": "Which of the following are true for Data Privacy?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Data Privacy is a branch of Data Security which deals mainly with the handling of data"
+          },
+          {
+            "id": "b",
+            "text": "Consent, Data Collection and Regulatory Compliance are main entities of Data Privacy"
+          },
+          {
+            "id": "c",
+            "text": "Data Security concentrates on keeping data safe from attacks"
+          },
+          {
+            "id": "d",
+            "text": "Regulations such as GDPR, HIPAA, GLBA, or CCPA protect data when sharing with third parties"
+          }
+        ],
+        "correctAnswer": [
+          "a",
+          "b",
+          "d"
+        ],
+        "isMultiAnswer": true
+      },
+      {
+        "id": "M8Q17",
+        "question": "What are the benefits of Data Control?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Data flaws are identified before they cause issues"
+          },
+          {
+            "id": "b",
+            "text": "Root cause of issues are identified and remediated"
+          },
+          {
+            "id": "c",
+            "text": "Data is monitored and controlled"
+          },
+          {
+            "id": "d",
+            "text": "Sensitive data can be mishandled"
+          }
+        ],
+        "correctAnswer": [
+          "a",
+          "b",
+          "c"
+        ],
+        "isMultiAnswer": true
+      },
+      {
+        "id": "M8Q18",
+        "question": "What are the types of Data Security control?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Data Encryption"
+          },
+          {
+            "id": "b",
+            "text": "Data Masking"
+          },
+          {
+            "id": "c",
+            "text": "Data Corruption"
+          },
+          {
+            "id": "d",
+            "text": "Data Resilience / Data Erasure"
+          }
+        ],
+        "correctAnswer": [
+          "a",
+          "b",
+          "d"
+        ],
+        "isMultiAnswer": true
+      },
+      {
+        "id": "M8Q19",
+        "question": "Automating process helps in reducing the number of data silos and the risk of human error.",
+        "options": [
+          {
+            "id": "a",
+            "text": "True"
+          },
+          {
+            "id": "b",
+            "text": "False"
+          }
+        ],
+        "correctAnswer": "a",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M8Q20",
+        "question": "What steps should your organization take to ensure compliance with Data Privacy regulations?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Implement a robust compliance strategy with primary focus on Data Privacy"
+          },
+          {
+            "id": "b",
+            "text": "Hire Subject Matter Experts well-versed with compliance regulations"
+          },
+          {
+            "id": "c",
+            "text": "Call the authorities in case of a Data Breach"
+          },
+          {
+            "id": "d",
+            "text": "Maintain an inventory of personal information"
+          }
+        ],
+        "correctAnswer": [
+          "a",
+          "b",
+          "d"
+        ],
+        "isMultiAnswer": true
+      },
+      {
+        "id": "M8Q21",
+        "question": "Which are the five types of Deepfakes?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Textual Deepfakes"
+          },
+          {
+            "id": "b",
+            "text": "Deepfake Videos / Images / Audio"
+          },
+          {
+            "id": "c",
+            "text": "Deepfake Coding"
+          },
+          {
+            "id": "d",
+            "text": "Live Deepfake"
+          }
+        ],
+        "correctAnswer": [
+          "a",
+          "b",
+          "d",
+          "a"
+        ],
+        "isMultiAnswer": true
+      },
+      {
+        "id": "M8Q22",
+        "question": "Which are some ways businesses can protect against Deepfakes?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Verifying authenticity with the original source"
+          },
+          {
+            "id": "b",
+            "text": "Superimposing images and videos to assess dissimilarities"
+          },
+          {
+            "id": "c",
+            "text": "Detecting Deepfakes by using the technology against itself"
+          },
+          {
+            "id": "d",
+            "text": "Accelerating Digital Transformation and Education"
+          }
+        ],
+        "correctAnswer": [
+          "a",
+          "c",
+          "d"
+        ],
+        "isMultiAnswer": true
+      },
+      {
+        "id": "M8Q23",
+        "question": "Deepfakes are manipulated content powered by Machine Learning and are produced in different forms.",
+        "options": [
+          {
+            "id": "a",
+            "text": "True"
+          },
+          {
+            "id": "b",
+            "text": "False"
+          }
+        ],
+        "correctAnswer": "a",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M8Q24",
+        "question": "According to Steinberg, which are the three Deepfake threat categories?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Disinformation campaigns mostly involving edits to legitimate content"
+          },
+          {
+            "id": "b",
+            "text": "Subtle changes to images/logos to bypass automated detection tools"
+          },
+          {
+            "id": "c",
+            "text": "Synthetic or composite Deepfakes derived from a collection of originals"
+          },
+          {
+            "id": "d",
+            "text": "Replicas of legitimate email addresses with a slight variation"
+          }
+        ],
+        "correctAnswer": [
+          "a",
+          "b",
+          "c"
+        ],
+        "isMultiAnswer": true
+      },
+      {
+        "id": "M8Q25",
+        "question": "What type of cybercrime is described as potentially becoming more financially damaging due to deepfakes?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Ransomware attacks"
+          },
+          {
+            "id": "b",
+            "text": "Distributed Denial of Service (DDoS) attacks"
+          },
+          {
+            "id": "c",
+            "text": "Business Email Compromise (BEC) scams"
+          },
+          {
+            "id": "d",
+            "text": "Man-in-the-middle attacks"
+          }
+        ],
+        "correctAnswer": "c",
+        "isMultiAnswer": false
+      }
+    ]
+  },
+  {
+    "id": "module-9---blockchain--rpa",
+    "name": "Module 9 - Blockchain & RPA",
+    "questions": [
+      {
+        "id": "M9Q1",
+        "question": "If you make a change to information in a block, you don't rewrite it, instead the change is stored in a new block.",
+        "options": [
+          {
+            "id": "a",
+            "text": "True"
+          },
+          {
+            "id": "b",
+            "text": "False"
+          }
+        ],
+        "correctAnswer": "a",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M9Q2",
+        "question": "How did Blockchain technology impact Walmart Canada's supply chain management?",
+        "options": [
+          {
+            "id": "a",
+            "text": "It increased disputed invoices to 90%"
+          },
+          {
+            "id": "b",
+            "text": "It reduced disputed invoices from 70% to 1%"
+          },
+          {
+            "id": "c",
+            "text": "It eliminated all manual work in payables"
+          },
+          {
+            "id": "d",
+            "text": "It doubled the time required for carrier payments"
+          }
+        ],
+        "correctAnswer": "b",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M9Q3",
+        "question": "What major trend is associated with the adoption of Blockchain technology?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Mass adoption of centralization"
+          },
+          {
+            "id": "b",
+            "text": "Mass adoption of decentralization"
+          },
+          {
+            "id": "c",
+            "text": "Decreased security"
+          },
+          {
+            "id": "d",
+            "text": "Increased regulation"
+          }
+        ],
+        "correctAnswer": "b",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M9Q4",
+        "question": "Which Blockchain trend enables users to build their own digital products with Blockchain technology?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Blockchain as a Product"
+          },
+          {
+            "id": "b",
+            "text": "Blockchain as a Service"
+          },
+          {
+            "id": "c",
+            "text": "Blockchain with AI"
+          },
+          {
+            "id": "d",
+            "text": "Blockchain with IoT"
+          }
+        ],
+        "correctAnswer": "b",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M9Q5",
+        "question": "Federated Blockchain is a type of Private Blockchain.",
+        "options": [
+          {
+            "id": "a",
+            "text": "True"
+          },
+          {
+            "id": "b",
+            "text": "False"
+          }
+        ],
+        "correctAnswer": "a",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M9Q6",
+        "question": "What is a key characteristic of Blockchain technology?",
+        "options": [
+          {
+            "id": "a",
+            "text": "High transaction fees"
+          },
+          {
+            "id": "b",
+            "text": "Centralized control"
+          },
+          {
+            "id": "c",
+            "text": "Decentralization"
+          },
+          {
+            "id": "d",
+            "text": "Limited access"
+          }
+        ],
+        "correctAnswer": "c",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M9Q7",
+        "question": "What does the term 'digital ledger' refer to in the context of Blockchain?",
+        "options": [
+          {
+            "id": "a",
+            "text": "A type of cryptocurrency"
+          },
+          {
+            "id": "b",
+            "text": "A shared record of transactions"
+          },
+          {
+            "id": "c",
+            "text": "A physical notebook"
+          },
+          {
+            "id": "d",
+            "text": "A banking system"
+          }
+        ],
+        "correctAnswer": "b",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M9Q8",
+        "question": "While using Blockchain, fragmented internal systems are centralized allowing interoperability.",
+        "options": [
+          {
+            "id": "a",
+            "text": "True"
+          },
+          {
+            "id": "b",
+            "text": "False"
+          }
+        ],
+        "correctAnswer": "a",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M9Q9",
+        "question": "Cryptocurrency is the technology that serves as the Distributed Ledger that forms the Network.",
+        "options": [
+          {
+            "id": "a",
+            "text": "True"
+          },
+          {
+            "id": "b",
+            "text": "False"
+          }
+        ],
+        "correctAnswer": "b",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M9Q10",
+        "question": "Bitcoin allows anyone to send money across borders almost instantly and with very low fees.",
+        "options": [
+          {
+            "id": "a",
+            "text": "True"
+          },
+          {
+            "id": "b",
+            "text": "False"
+          }
+        ],
+        "correctAnswer": "a",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M9Q11",
+        "question": "Which of the following are benefits of employing Blockchain in financial transactions?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Faster Transactions"
+          },
+          {
+            "id": "b",
+            "text": "Error-Free Transactions"
+          },
+          {
+            "id": "c",
+            "text": "Centralized Verification"
+          }
+        ],
+        "correctAnswer": "a",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M9Q12",
+        "question": "Which factor of blockchain makes it disruptive for the banking sector?",
+        "options": [
+          {
+            "id": "a",
+            "text": "The fact that it is fast"
+          },
+          {
+            "id": "b",
+            "text": "The fact that it reduces interactions with intermediaries"
+          },
+          {
+            "id": "c",
+            "text": "The fact that it is secure"
+          }
+        ],
+        "correctAnswer": "b",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M9Q13",
+        "question": "How can Blockchain technology enhance Central Bank Digital Currencies (CBDCs)?",
+        "options": [
+          {
+            "id": "a",
+            "text": "By reducing financial access for individuals"
+          },
+          {
+            "id": "b",
+            "text": "By compromising user security and privacy"
+          },
+          {
+            "id": "c",
+            "text": "By providing transparency to track transactions"
+          },
+          {
+            "id": "d",
+            "text": "By increasing the need for physical currency"
+          }
+        ],
+        "correctAnswer": "c",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M9Q14",
+        "question": "In financial services, Blockchain technology is used for:",
+        "options": [
+          {
+            "id": "a",
+            "text": "Automation"
+          },
+          {
+            "id": "b",
+            "text": "Digital Connection"
+          },
+          {
+            "id": "c",
+            "text": "Digital Instruments"
+          }
+        ],
+        "correctAnswer": "c",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M9Q15",
+        "question": "Blockchain can improve data quality for banks by ensuring that data does not exist in duplicate locations.",
+        "options": [
+          {
+            "id": "a",
+            "text": "True"
+          },
+          {
+            "id": "b",
+            "text": "False"
+          }
+        ],
+        "correctAnswer": "a",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M9Q16",
+        "question": "How can Blockchain be utilized in creating an efficient workplace?",
+        "options": [
+          {
+            "id": "a",
+            "text": "By helping recruiters verify employment history"
+          },
+          {
+            "id": "b",
+            "text": "By linking employee accounts with company accounts"
+          },
+          {
+            "id": "c",
+            "text": "Easier and faster payments of salaries"
+          },
+          {
+            "id": "d",
+            "text": "By helping employers outsource tasks"
+          }
+        ],
+        "correctAnswer": [
+          "a",
+          "c",
+          "d"
+        ],
+        "isMultiAnswer": true
+      },
+      {
+        "id": "M9Q17",
+        "question": "Blockchain makes data private and secure by using cryptographic techniques and Merkle trees.",
+        "options": [
+          {
+            "id": "a",
+            "text": "True"
+          },
+          {
+            "id": "b",
+            "text": "False"
+          }
+        ],
+        "correctAnswer": "a",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M9Q18",
+        "question": "Controlling career credentials data through blockchain can be beneficial for which job search-related processes?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Employment creation"
+          },
+          {
+            "id": "b",
+            "text": "Job match"
+          },
+          {
+            "id": "c",
+            "text": "Job advertisements"
+          },
+          {
+            "id": "d",
+            "text": "Relevant hiring organisations / Proof of career history for immigrants"
+          }
+        ],
+        "correctAnswer": [
+          "b",
+          "d"
+        ],
+        "isMultiAnswer": true
+      },
+      {
+        "id": "M9Q19",
+        "question": "On a blockchain, once recorded, employees do not have control on their own data because records cannot be deleted.",
+        "options": [
+          {
+            "id": "a",
+            "text": "True"
+          },
+          {
+            "id": "b",
+            "text": "False"
+          }
+        ],
+        "correctAnswer": "b",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M9Q20",
+        "question": "Which of the following is NOT true about the impact of Blockchain on the workforce?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Salaries and bonuses will be more transparent on an open blockchain"
+          },
+          {
+            "id": "b",
+            "text": "Workplaces can use blockchain to track outsourced work"
+          },
+          {
+            "id": "c",
+            "text": "In the near future, all employers and universities will adopt blockchain technology"
+          },
+          {
+            "id": "d",
+            "text": "Blockchain can help refugees and immigrants find jobs"
+          }
+        ],
+        "correctAnswer": [
+          "c",
+          "a"
+        ],
+        "isMultiAnswer": true
+      },
+      {
+        "id": "M9Q21",
+        "question": "Blue Prism is a RPA tool used widely in the industry.",
+        "options": [
+          {
+            "id": "a",
+            "text": "True"
+          },
+          {
+            "id": "b",
+            "text": "False"
+          }
+        ],
+        "correctAnswer": "a",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M9Q22",
+        "question": "Which of the following are the benefits of RPA tools?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Helps you to automate large numbers of the processes"
+          },
+          {
+            "id": "b",
+            "text": "Helps you to increase scalability"
+          },
+          {
+            "id": "c",
+            "text": "Helps in connecting different devices"
+          }
+        ],
+        "correctAnswer": [
+          "a",
+          "b"
+        ],
+        "isMultiAnswer": true
+      },
+      {
+        "id": "M9Q23",
+        "question": "A well-controlled and scalable RPA platform in any organization needs a partnership between:",
+        "options": [
+          {
+            "id": "a",
+            "text": "HR and IT"
+          },
+          {
+            "id": "b",
+            "text": "Operation and IT"
+          },
+          {
+            "id": "c",
+            "text": "Support and IT"
+          }
+        ],
+        "correctAnswer": "b",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M9Q24",
+        "question": "One RPA process can work with only one application.",
+        "options": [
+          {
+            "id": "a",
+            "text": "True"
+          },
+          {
+            "id": "b",
+            "text": "False"
+          }
+        ],
+        "correctAnswer": "b",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M9Q25",
+        "question": "What are the two things necessary for the execution of a complete RPA solution?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Operation Studio and HBO"
+          },
+          {
+            "id": "b",
+            "text": "Process Studio and VBO"
+          },
+          {
+            "id": "c",
+            "text": "Automation Studio and RBO"
+          }
+        ],
+        "correctAnswer": "b",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M9Q26",
+        "question": "The Core Technologies of RPA include which of the following?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Artificial Intelligence"
+          },
+          {
+            "id": "b",
+            "text": "Machine Learning"
+          },
+          {
+            "id": "c",
+            "text": "Workflow Automation"
+          },
+          {
+            "id": "d",
+            "text": "Screen Scraping / NLP"
+          }
+        ],
+        "correctAnswer": [
+          "a",
+          "c",
+          "d"
+        ],
+        "isMultiAnswer": true
+      },
+      {
+        "id": "M9Q27",
+        "question": "RPA tools enable a robust integration into the UI layer, which ensures that layout and screen resolution changes do not adjust.",
+        "options": [
+          {
+            "id": "a",
+            "text": "True"
+          },
+          {
+            "id": "b",
+            "text": "False"
+          }
+        ],
+        "correctAnswer": "b",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M9Q28",
+        "question": "Screen Scraping is useful when working with application interfaces that are _____________ through available UI frameworks or code.",
+        "options": [
+          {
+            "id": "a",
+            "text": "accessible"
+          },
+          {
+            "id": "b",
+            "text": "not accessible"
+          },
+          {
+            "id": "c",
+            "text": "readable"
+          },
+          {
+            "id": "d",
+            "text": "not formattable"
+          }
+        ],
+        "correctAnswer": "b",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M9Q29",
+        "question": "Which of the following statements is NOT true about Workflow Automation?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Workflow Automation refers to automating manual processes based on pre-defined rules"
+          },
+          {
+            "id": "b",
+            "text": "Workflow Automation automates both external and internal workflows"
+          },
+          {
+            "id": "c",
+            "text": "Workflow Automation increases the accuracy of consumer data"
+          },
+          {
+            "id": "d",
+            "text": "With Workflow Automation, it is difficult to track and respond to individual follow-ups"
+          }
+        ],
+        "correctAnswer": [
+          "d",
+          "b"
+        ],
+        "isMultiAnswer": true
+      },
+      {
+        "id": "M9Q30",
+        "question": "Which AI capabilities help drive the business value of RPA?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Natural Language Processing (NLP)"
+          },
+          {
+            "id": "b",
+            "text": "Computer vision"
+          },
+          {
+            "id": "c",
+            "text": "Chatbots"
+          },
+          {
+            "id": "d",
+            "text": "Optical Character Recognition (OCR)"
+          }
+        ],
+        "correctAnswer": [
+          "a",
+          "b",
+          "d"
+        ],
+        "isMultiAnswer": true
+      },
+      {
+        "id": "M9Q31",
+        "question": "In Insurance Industry, workers spend more than half of their time in:",
+        "options": [
+          {
+            "id": "a",
+            "text": "Collecting and processing data"
+          },
+          {
+            "id": "b",
+            "text": "Arranging offline paper data"
+          },
+          {
+            "id": "c",
+            "text": "Printing reports"
+          }
+        ],
+        "correctAnswer": "a",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M9Q32",
+        "question": "Using RPA bots, which one of the following functions can NOT be automated?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Data entry into key systems"
+          },
+          {
+            "id": "b",
+            "text": "Meeting customers one-to-one"
+          },
+          {
+            "id": "c",
+            "text": "Downloading policyholder data from multiple sources"
+          },
+          {
+            "id": "d",
+            "text": "Reading and scanning data"
+          }
+        ],
+        "correctAnswer": "b",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M9Q33",
+        "question": "RPA implementation should never involve orchestrating the robots to automate processes, the robots can do it without supervision.",
+        "options": [
+          {
+            "id": "a",
+            "text": "True"
+          },
+          {
+            "id": "b",
+            "text": "False"
+          }
+        ],
+        "correctAnswer": "b",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M9Q34",
+        "question": "Which of the following will be a huge field of application of RPA in regulatory compliance processes in Insurance and Banking sectors?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Only A (Process workflows)"
+          },
+          {
+            "id": "b",
+            "text": "Only B (Control costs)"
+          },
+          {
+            "id": "c",
+            "text": "Both A and B"
+          }
+        ],
+        "correctAnswer": "c",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M9Q35",
+        "question": "Traditional Insurance systems are undergoing transformation and technologies like RPA are inducing:",
+        "options": [
+          {
+            "id": "a",
+            "text": "Slow Speed to action"
+          },
+          {
+            "id": "b",
+            "text": "Multi Channel Integration"
+          },
+          {
+            "id": "c",
+            "text": "Heavy Cost of Implementation"
+          }
+        ],
+        "correctAnswer": "b",
+        "isMultiAnswer": false
+      }
+    ]
+  },
+  {
+    "id": "module-10---web-xr-3d-printing",
+    "name": "Module 10 - Web XR 3D Printing",
+    "questions": [
+      {
+        "id": "M10Q1",
+        "question": "Which of the following is NOT among the 5Ds of Digital Marketing?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Digital Platform"
+          },
+          {
+            "id": "b",
+            "text": "Digital Systems"
+          },
+          {
+            "id": "c",
+            "text": "Digital Data"
+          },
+          {
+            "id": "d",
+            "text": "Digital Media"
+          }
+        ],
+        "correctAnswer": "b",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M10Q2",
+        "question": "What is the importance of data in Digital Marketing?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Data helps determine what audience is searching for"
+          },
+          {
+            "id": "b",
+            "text": "Data can help prevent cyber attacks"
+          },
+          {
+            "id": "c",
+            "text": "You can use past data to predict future campaign outcomes"
+          },
+          {
+            "id": "d",
+            "text": "Data helps track visitors and build personas"
+          }
+        ],
+        "correctAnswer": [
+          "a",
+          "c",
+          "d"
+        ],
+        "isMultiAnswer": true
+      },
+      {
+        "id": "M10Q3",
+        "question": "A multi-touch attribution model makes data-driven decisions about where to invest your marketing budget.",
+        "options": [
+          {
+            "id": "a",
+            "text": "True"
+          },
+          {
+            "id": "b",
+            "text": "False"
+          }
+        ],
+        "correctAnswer": "a",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M10Q4",
+        "question": "What are the benefits of using Digital Platforms in Digital Marketing?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Increased sales"
+          },
+          {
+            "id": "b",
+            "text": "Increased downtime"
+          },
+          {
+            "id": "c",
+            "text": "Improved customer targeting"
+          },
+          {
+            "id": "d",
+            "text": "Improved brand awareness"
+          }
+        ],
+        "correctAnswer": [
+          "a",
+          "c",
+          "d"
+        ],
+        "isMultiAnswer": true
+      },
+      {
+        "id": "M10Q5",
+        "question": "Which Digital Media can be utilized in Digital Marketing?",
+        "options": [
+          {
+            "id": "a",
+            "text": "TV & Radio"
+          },
+          {
+            "id": "b",
+            "text": "Mobile Apps"
+          },
+          {
+            "id": "c",
+            "text": "Podcasts"
+          },
+          {
+            "id": "d",
+            "text": "Newspapers / Emails"
+          }
+        ],
+        "correctAnswer": [
+          "a",
+          "b",
+          "c"
+        ],
+        "isMultiAnswer": true
+      },
+      {
+        "id": "M10Q6",
+        "question": "Digital Storytelling is versatile and can cover a wide variety of topics.",
+        "options": [
+          {
+            "id": "a",
+            "text": "True"
+          },
+          {
+            "id": "b",
+            "text": "False"
+          }
+        ],
+        "correctAnswer": "a",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M10Q7",
+        "question": "Digital Storytelling in online education has only been adapted to create student engagement.",
+        "options": [
+          {
+            "id": "a",
+            "text": "True"
+          },
+          {
+            "id": "b",
+            "text": "False"
+          }
+        ],
+        "correctAnswer": "b",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M10Q8",
+        "question": "What are the steps to create a Digital Story?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Write an original script"
+          },
+          {
+            "id": "b",
+            "text": "Create storyboards"
+          },
+          {
+            "id": "c",
+            "text": "Research, explore and learn"
+          },
+          {
+            "id": "d",
+            "text": "Create a user persona"
+          }
+        ],
+        "correctAnswer": [
+          "a",
+          "b",
+          "c"
+        ],
+        "isMultiAnswer": true
+      },
+      {
+        "id": "M10Q9",
+        "question": "Which of the following statements is NOT true about storyboarding?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Storyboarding is a visual blueprint of how a video will look and feel"
+          },
+          {
+            "id": "b",
+            "text": "A storyboard is a good step in a staged, longer-term project"
+          },
+          {
+            "id": "c",
+            "text": "Since a storyboard visualizes the final look, it is very elaborate and detail-oriented"
+          }
+        ],
+        "correctAnswer": [
+          "c"
+        ],
+        "isMultiAnswer": true
+      },
+      {
+        "id": "M10Q10",
+        "question": "Benefits of Digital Storytelling are:",
+        "options": [
+          {
+            "id": "a",
+            "text": "Improved understanding of subject area and writing skills"
+          },
+          {
+            "id": "b",
+            "text": "Improved emotional intelligence of students"
+          },
+          {
+            "id": "c",
+            "text": "Improved overall academic performance of students"
+          },
+          {
+            "id": "d",
+            "text": "Improved research skills"
+          }
+        ],
+        "correctAnswer": [
+          "a",
+          "c",
+          "d"
+        ],
+        "isMultiAnswer": true
+      },
+      {
+        "id": "M10Q11",
+        "question": "Which is the first stage involved in 3D Printing?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Additive Manufacturing"
+          },
+          {
+            "id": "b",
+            "text": "Strategy"
+          },
+          {
+            "id": "c",
+            "text": "Printing"
+          }
+        ],
+        "correctAnswer": "a",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M10Q12",
+        "question": "3D Printing is a tool used to create 3-Dimensional objects designed on computer.",
+        "options": [
+          {
+            "id": "a",
+            "text": "True"
+          },
+          {
+            "id": "b",
+            "text": "False"
+          }
+        ],
+        "correctAnswer": "a",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M10Q13",
+        "question": "Which process is widely recognized as the first 3D Printing process?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Stereolithography (SL)"
+          },
+          {
+            "id": "b",
+            "text": "Digital Light Process"
+          },
+          {
+            "id": "c",
+            "text": "Inkjet"
+          }
+        ],
+        "correctAnswer": "a",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M10Q14",
+        "question": "Which 3D Printing process builds parts layer by layer using standard copier paper?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Selective Deposition Lamination"
+          },
+          {
+            "id": "b",
+            "text": "Extrusion"
+          },
+          {
+            "id": "c",
+            "text": "Stereolithography"
+          }
+        ],
+        "correctAnswer": "a",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M10Q15",
+        "question": "3D Printing creates parts by building up objects one layer at a time.",
+        "options": [
+          {
+            "id": "a",
+            "text": "True"
+          },
+          {
+            "id": "b",
+            "text": "False"
+          }
+        ],
+        "correctAnswer": "a",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M10Q16",
+        "question": "Digital Manufacturing technologies connect systems and processes across all aspects of production.",
+        "options": [
+          {
+            "id": "a",
+            "text": "True"
+          },
+          {
+            "id": "b",
+            "text": "False"
+          }
+        ],
+        "correctAnswer": "a",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M10Q17",
+        "question": "What are the key elements of Digital Manufacturing?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Connected Design and Production, Connected Smart Factory and Connected Value Chain"
+          },
+          {
+            "id": "b",
+            "text": "Digital Twins, Connected Smart Factory and Connected Value Chain"
+          },
+          {
+            "id": "c",
+            "text": "Connected Design and Production, Manufacturing Software and Connected Value Chain"
+          },
+          {
+            "id": "d",
+            "text": "RPA Production, Connected Smart Factory and Connected Management Software"
+          }
+        ],
+        "correctAnswer": [
+          "a",
+          "c"
+        ],
+        "isMultiAnswer": true
+      },
+      {
+        "id": "M10Q18",
+        "question": "What are the business units that adopt 3D Printing techniques and methodologies in an organization called?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Digital manufacturers"
+          },
+          {
+            "id": "b",
+            "text": "Digital factories"
+          },
+          {
+            "id": "c",
+            "text": "Digital manufactory"
+          }
+        ],
+        "correctAnswer": "b",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M10Q19",
+        "question": "What are the three pillars of a Digital Factory?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Digital Factory for Metals"
+          },
+          {
+            "id": "b",
+            "text": "Digital Factory for Plastics"
+          },
+          {
+            "id": "c",
+            "text": "Digital Factory for Cotton"
+          },
+          {
+            "id": "d",
+            "text": "The Digital Foundry"
+          }
+        ],
+        "correctAnswer": [
+          "a",
+          "b",
+          "d"
+        ],
+        "isMultiAnswer": true
+      },
+      {
+        "id": "M10Q20",
+        "question": "Name three 3D Digital Manufacturing technologies available to small manufacturers and designer-makers:",
+        "options": [
+          {
+            "id": "a",
+            "text": "CNC Milling"
+          },
+          {
+            "id": "b",
+            "text": "Sheet Lamination"
+          },
+          {
+            "id": "c",
+            "text": "Fused Filament Fabrication"
+          },
+          {
+            "id": "d",
+            "text": "Inkjet 3D and binder jetting printing"
+          }
+        ],
+        "correctAnswer": [
+          "a",
+          "c",
+          "d"
+        ],
+        "isMultiAnswer": true
+      },
+      {
+        "id": "M10Q21",
+        "question": "Which of the following is an upcoming trend in 3D Printing?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Polymer 3D Printing will dominate"
+          },
+          {
+            "id": "b",
+            "text": "Hardware advances will amplify 3D Printing"
+          },
+          {
+            "id": "c",
+            "text": "Automation will become a key focus"
+          }
+        ],
+        "correctAnswer": "c",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M10Q22",
+        "question": "Which of the following is predicted to be the next frontier for the future of 3D Printing?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Design validation, prototyping, jigs, and fixtures"
+          },
+          {
+            "id": "b",
+            "text": "Mass production, functional end-use applications"
+          },
+          {
+            "id": "c",
+            "text": "Product design with extensive tooling"
+          }
+        ],
+        "correctAnswer": [
+          "b"
+        ],
+        "isMultiAnswer": true
+      },
+      {
+        "id": "M10Q23",
+        "question": "3D Printing technology could dramatically change the future of Supply Chains.",
+        "options": [
+          {
+            "id": "a",
+            "text": "True"
+          },
+          {
+            "id": "b",
+            "text": "False"
+          }
+        ],
+        "correctAnswer": "a",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M10Q24",
+        "question": "Which should be the first step to delivering technological and conceptual impact of 3D Printing in Manufacturing?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Accepting new ways of designing parts"
+          },
+          {
+            "id": "b",
+            "text": "Implementing advanced technology"
+          },
+          {
+            "id": "c",
+            "text": "Focusing more on Rapid Prototyping"
+          }
+        ],
+        "correctAnswer": "a",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M10Q25",
+        "question": "Personalized Healthcare represents one of the most significant areas of growth potential for 3D Printing technology.",
+        "options": [
+          {
+            "id": "a",
+            "text": "True"
+          },
+          {
+            "id": "b",
+            "text": "False"
+          }
+        ],
+        "correctAnswer": "a",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M10Q26",
+        "question": "The parking assistant feature in the car is an example of Augmented Reality.",
+        "options": [
+          {
+            "id": "a",
+            "text": "True"
+          },
+          {
+            "id": "b",
+            "text": "False"
+          }
+        ],
+        "correctAnswer": "a",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M10Q27",
+        "question": "Which among these is a key element of the Virtual Reality experience?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Over laying 3D images"
+          },
+          {
+            "id": "b",
+            "text": "Immersion"
+          },
+          {
+            "id": "c",
+            "text": "Simulation"
+          }
+        ],
+        "correctAnswer": "b",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M10Q28",
+        "question": "The Snapchat face filters could be termed as primitive forms of Augmented Reality.",
+        "options": [
+          {
+            "id": "a",
+            "text": "True"
+          },
+          {
+            "id": "b",
+            "text": "False"
+          }
+        ],
+        "correctAnswer": "a",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M10Q29",
+        "question": "Which of this is more appropriate when it comes to AR and VR technologies?",
+        "options": [
+          {
+            "id": "a",
+            "text": "The fun quotient makes AR and VR different from the other technologies"
+          },
+          {
+            "id": "b",
+            "text": "AR and VR directly affects the perceptions and processes of human mind"
+          },
+          {
+            "id": "c",
+            "text": "The element of interactivity in AR and VR makes them different"
+          }
+        ],
+        "correctAnswer": "b",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M10Q30",
+        "question": "What is the name of the first VR headset invented by Ivan Sutherland?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Solomon's Golden Table"
+          },
+          {
+            "id": "b",
+            "text": "The Sword of Damocles"
+          },
+          {
+            "id": "c",
+            "text": "The Shroud of Turin"
+          }
+        ],
+        "correctAnswer": "b",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M10Q31",
+        "question": "What combines to make a Metaverse?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Social Media"
+          },
+          {
+            "id": "b",
+            "text": "Online Gaming"
+          },
+          {
+            "id": "c",
+            "text": "Augmented Reality"
+          },
+          {
+            "id": "d",
+            "text": "Virtual Reality / Digital Currencies"
+          }
+        ],
+        "correctAnswer": [
+          "a",
+          "b",
+          "c",
+          "d"
+        ],
+        "isMultiAnswer": true
+      },
+      {
+        "id": "M10Q32",
+        "question": "Metaverse is large scale and multifunctional; not limited to only VR/AR experience but fully revealed when using these technologies.",
+        "options": [
+          {
+            "id": "a",
+            "text": "True"
+          },
+          {
+            "id": "b",
+            "text": "False"
+          }
+        ],
+        "correctAnswer": "a",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M10Q33",
+        "question": "When purchasing a digital item in the Metaverse, you need to secure your rights to use it only on separate individual platforms.",
+        "options": [
+          {
+            "id": "a",
+            "text": "True"
+          },
+          {
+            "id": "b",
+            "text": "False"
+          }
+        ],
+        "correctAnswer": "b",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M10Q34",
+        "question": "Which of the following statements hold true for Metaverse?",
+        "options": [
+          {
+            "id": "a",
+            "text": "It is a convergence of physical, augmented and virtual reality"
+          },
+          {
+            "id": "b",
+            "text": "It is the future of the Internet"
+          },
+          {
+            "id": "c",
+            "text": "The origin of metaverse is from the science fiction movie TRON"
+          },
+          {
+            "id": "d",
+            "text": "It acts as a metaphor for the real world breaking down its physical and economic barriers"
+          }
+        ],
+        "correctAnswer": [
+          "a",
+          "b",
+          "d"
+        ],
+        "isMultiAnswer": true
+      },
+      {
+        "id": "M10Q35",
+        "question": "Name some Indian start-ups working on Metaverse:",
+        "options": [
+          {
+            "id": "a",
+            "text": "Bolly Heroes"
+          },
+          {
+            "id": "b",
+            "text": "One Rare"
+          },
+          {
+            "id": "c",
+            "text": "Facebook"
+          },
+          {
+            "id": "d",
+            "text": "Microsoft / LOKA"
+          }
+        ],
+        "correctAnswer": [
+          "a",
+          "b"
+        ],
+        "isMultiAnswer": true
+      },
+      {
+        "id": "M10Q36",
+        "question": "In what ways can Virtual Reality (VR) be utilized in the Banking sector?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Payments by scanning credit or debit cards with phone's camera"
+          },
+          {
+            "id": "b",
+            "text": "VR apps can give guided tour of steps involved in buying a property"
+          },
+          {
+            "id": "c",
+            "text": "VR apps can provide details about the nearest ATMs and branches"
+          },
+          {
+            "id": "d",
+            "text": "VR apps can give a 3D virtual tour of the bank branch"
+          }
+        ],
+        "correctAnswer": [
+          "b",
+          "d"
+        ],
+        "isMultiAnswer": true
+      },
+      {
+        "id": "M10Q37",
+        "question": "Which application is NOT possible with VR/AR in the financial industry?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Data visualisation"
+          },
+          {
+            "id": "b",
+            "text": "Virtual trading"
+          },
+          {
+            "id": "c",
+            "text": "Human interaction"
+          },
+          {
+            "id": "d",
+            "text": "Virtual Reality payments"
+          }
+        ],
+        "correctAnswer": "c",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M10Q38",
+        "question": "With AR, it is possible to see more information about a product and interact with a holographic salesperson.",
+        "options": [
+          {
+            "id": "a",
+            "text": "True"
+          },
+          {
+            "id": "b",
+            "text": "False"
+          }
+        ],
+        "correctAnswer": "a",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M10Q39",
+        "question": "By introducing biometric security in an AR system connected with a VR world, customers can securely access several banking processes.",
+        "options": [
+          {
+            "id": "a",
+            "text": "True"
+          },
+          {
+            "id": "b",
+            "text": "False"
+          }
+        ],
+        "correctAnswer": "a",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M10Q40",
+        "question": "In a VR environment, the relationship between the properties of an object and the user's ability to act on it is based on the concept of ________.",
+        "options": [
+          {
+            "id": "a",
+            "text": "Allowances"
+          },
+          {
+            "id": "b",
+            "text": "Affordances"
+          },
+          {
+            "id": "c",
+            "text": "Spatial Awareness"
+          }
+        ],
+        "correctAnswer": "b",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M10Q41",
+        "question": "Displaying text and images that aren't part of the VR environment as slightly curved will not look smooth and badly affect visual immersion.",
+        "options": [
+          {
+            "id": "a",
+            "text": "True"
+          },
+          {
+            "id": "b",
+            "text": "False"
+          }
+        ],
+        "correctAnswer": "b",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M10Q42",
+        "question": "You're developing a 360° VR video and want users to look left. Which is the best way without breaking the immersive experience?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Pan the camera automatically to the speaker"
+          },
+          {
+            "id": "b",
+            "text": "Avoid and create an alternative interaction"
+          },
+          {
+            "id": "c",
+            "text": "Add audio cues such as make the character speak"
+          }
+        ],
+        "correctAnswer": "c",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M10Q43",
+        "question": "What type of audio is most commonly used in VR?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Monoscopic"
+          },
+          {
+            "id": "b",
+            "text": "Stereoscopic"
+          },
+          {
+            "id": "c",
+            "text": "Both Monoscopic and Stereoscopic"
+          }
+        ],
+        "correctAnswer": "c",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M10Q44",
+        "question": "In immersive technology, _______ merges real and virtual worlds, where physical and digital objects interact in real time.",
+        "options": [
+          {
+            "id": "a",
+            "text": "Virtual Reality"
+          },
+          {
+            "id": "b",
+            "text": "Augmented Reality"
+          },
+          {
+            "id": "c",
+            "text": "Mixed Reality"
+          },
+          {
+            "id": "d",
+            "text": "Mirrored Reality"
+          }
+        ],
+        "correctAnswer": "c",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M10Q45",
+        "question": "Which tool is best suited for creating and presenting AI-generated reports in a professional format?",
+        "options": [
+          {
+            "id": "a",
+            "text": "PowerPoint"
+          },
+          {
+            "id": "b",
+            "text": "Excel"
+          },
+          {
+            "id": "c",
+            "text": "Microsoft Word"
+          },
+          {
+            "id": "d",
+            "text": "Gemini"
+          }
+        ],
+        "correctAnswer": "a",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M10Q46",
+        "question": "Which type of visualization chart is represented by segments showing Apples, Bananas, Dates, Cherries?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Line chart"
+          },
+          {
+            "id": "b",
+            "text": "Scatter plot"
+          },
+          {
+            "id": "c",
+            "text": "Pie chart"
+          },
+          {
+            "id": "d",
+            "text": "Doughnut chart"
+          }
+        ],
+        "correctAnswer": "c",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M10Q47",
+        "question": "What type of AI model architecture shows Input Layer, Hidden Layer, and Output Layer?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Recurrent Neural Network (RNN)"
+          },
+          {
+            "id": "b",
+            "text": "Reinforcement Learning Model"
+          },
+          {
+            "id": "c",
+            "text": "Feedforward Neural Network"
+          },
+          {
+            "id": "d",
+            "text": "Convolutional Neural Network (CNN)"
+          }
+        ],
+        "correctAnswer": "c",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M10Q48",
+        "question": "What technological advancement contributed significantly to the resurgence of neural networks?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Support vector machines (SVMs)"
+          },
+          {
+            "id": "b",
+            "text": "Quantum computing"
+          },
+          {
+            "id": "c",
+            "text": "Analog computing"
+          },
+          {
+            "id": "d",
+            "text": "Graphics processing units (GPUs)"
+          }
+        ],
+        "correctAnswer": "d",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M10Q49",
+        "question": "You need to visualize the sales growth trend over the last 12 months. Which type of chart would best display this data?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Line chart"
+          },
+          {
+            "id": "b",
+            "text": "Bar chart"
+          },
+          {
+            "id": "c",
+            "text": "Pie chart"
+          },
+          {
+            "id": "d",
+            "text": "Heat map"
+          }
+        ],
+        "correctAnswer": "a",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M10Q50",
+        "question": "Match: Microsoft Word → Writing docs, Google Sheets → Organizing data, PowerPoint → Presentations",
+        "options": [
+          {
+            "id": "a",
+            "text": "1-B, 2-C, 3-A"
+          },
+          {
+            "id": "b",
+            "text": "1-C, 2-B, 3-A"
+          },
+          {
+            "id": "c",
+            "text": "1-A, 2-C, 3-B"
+          },
+          {
+            "id": "d",
+            "text": "1-B, 2-A, 3-C"
+          }
+        ],
+        "correctAnswer": [
+          "b"
+        ],
+        "isMultiAnswer": true
+      },
+      {
+        "id": "M10Q51",
+        "question": "You analyzed hospital visits for different diseases over the past year. Which visualization would be most suitable?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Pie chart"
+          },
+          {
+            "id": "b",
+            "text": "Line chart"
+          },
+          {
+            "id": "c",
+            "text": "Bar chart"
+          },
+          {
+            "id": "d",
+            "text": "Heat map"
+          }
+        ],
+        "correctAnswer": "c",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M10Q52",
+        "question": "Identify the tool used for creating business process models and organizational charts. [Microsoft Visio logo]",
+        "options": [
+          {
+            "id": "a",
+            "text": "Xbox"
+          },
+          {
+            "id": "b",
+            "text": "MS Word"
+          },
+          {
+            "id": "c",
+            "text": "Notepad"
+          },
+          {
+            "id": "d",
+            "text": "Microsoft Visio"
+          }
+        ],
+        "correctAnswer": "d",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M10Q53",
+        "question": "A Virtual Reality developer must have an understanding of textures, scripts, objects, components, and other Unity basics.",
+        "options": [
+          {
+            "id": "a",
+            "text": "True"
+          },
+          {
+            "id": "b",
+            "text": "False"
+          }
+        ],
+        "correctAnswer": "a",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M10Q54",
+        "question": "Which of the following are animation tools?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Blender"
+          },
+          {
+            "id": "b",
+            "text": "Maya"
+          },
+          {
+            "id": "c",
+            "text": "Pixlr"
+          },
+          {
+            "id": "d",
+            "text": "3ds Max"
+          }
+        ],
+        "correctAnswer": [
+          "a",
+          "b",
+          "d"
+        ],
+        "isMultiAnswer": true
+      },
+      {
+        "id": "M10Q55",
+        "question": "Select the statement that holds true for Virtual Reality:",
+        "options": [
+          {
+            "id": "a",
+            "text": "It is computationally Intensive"
+          },
+          {
+            "id": "b",
+            "text": "It requires less computation"
+          }
+        ],
+        "correctAnswer": "a",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M10Q56",
+        "question": "What are the essential skills for an AR/VR Developer?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Software Development"
+          },
+          {
+            "id": "b",
+            "text": "Knowledge of Deep Learning"
+          },
+          {
+            "id": "c",
+            "text": "UX Design & Animation"
+          },
+          {
+            "id": "d",
+            "text": "Graphics Rendering"
+          }
+        ],
+        "correctAnswer": [
+          "a",
+          "c",
+          "d"
+        ],
+        "isMultiAnswer": true
+      },
+      {
+        "id": "M10Q57",
+        "question": "Which language allows developers to quickly and easily create AR and VR experiences using animations, physics, and sound effects?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Rust"
+          },
+          {
+            "id": "b",
+            "text": "UnityScript"
+          },
+          {
+            "id": "c",
+            "text": "JavaScript"
+          },
+          {
+            "id": "d",
+            "text": "C++"
+          }
+        ],
+        "correctAnswer": "b",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M10Q58",
+        "question": "How did OpenAI evaluate GPT-4 efficiency and performance?",
+        "options": [
+          {
+            "id": "a",
+            "text": "By giving pre-recorded directions to self driving cars"
+          },
+          {
+            "id": "b",
+            "text": "By simulating exams designed for humans like LSAT"
+          },
+          {
+            "id": "c",
+            "text": "By providing reference images to a custom website"
+          }
+        ],
+        "correctAnswer": "b",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M10Q59",
+        "question": "GPT-4 has more Data and can solve complex problems however GPT-3 has more Computing Power.",
+        "options": [
+          {
+            "id": "a",
+            "text": "True"
+          },
+          {
+            "id": "b",
+            "text": "False"
+          }
+        ],
+        "correctAnswer": "b",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M10Q60",
+        "question": "OpenAI also claims that GPT-4 has a high degree of ________.",
+        "options": [
+          {
+            "id": "a",
+            "text": "Steerability"
+          },
+          {
+            "id": "b",
+            "text": "Summarization"
+          },
+          {
+            "id": "c",
+            "text": "Tokenization"
+          }
+        ],
+        "correctAnswer": "a",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M10Q61",
+        "question": "GPT-4 has been developed to improve model alignment - the ability to follow user intentions while making it more truthful.",
+        "options": [
+          {
+            "id": "a",
+            "text": "True"
+          },
+          {
+            "id": "b",
+            "text": "False"
+          }
+        ],
+        "correctAnswer": "a",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M10Q62",
+        "question": "Which of the following features gives the edge to GPT-4 over GPT-3?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Better text completion"
+          },
+          {
+            "id": "b",
+            "text": "Precise translation"
+          },
+          {
+            "id": "c",
+            "text": "Summarization"
+          },
+          {
+            "id": "d",
+            "text": "Unimodality"
+          }
+        ],
+        "correctAnswer": [
+          "a",
+          "b",
+          "c"
+        ],
+        "isMultiAnswer": true
+      },
+      {
+        "id": "M10Q63",
+        "question": "Convolutional Neural Networks (CNNs) learn to recognize patterns in images by extracting features using convolutional and pooling layers.",
+        "options": [
+          {
+            "id": "a",
+            "text": "True"
+          },
+          {
+            "id": "b",
+            "text": "False"
+          }
+        ],
+        "correctAnswer": "a",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M10Q64",
+        "question": "What are the three elements of Artificial Neural Networks (ANN)?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Feedback ANN"
+          },
+          {
+            "id": "b",
+            "text": "Processing Elements"
+          },
+          {
+            "id": "c",
+            "text": "Topology"
+          },
+          {
+            "id": "d",
+            "text": "Learning Algorithm"
+          }
+        ],
+        "correctAnswer": [
+          "b",
+          "c",
+          "d"
+        ],
+        "isMultiAnswer": true
+      },
+      {
+        "id": "M10Q65",
+        "question": "What kind of settings and configurations does a CNN require before training the model?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Hyperparameters"
+          },
+          {
+            "id": "b",
+            "text": "Precise localization"
+          },
+          {
+            "id": "c",
+            "text": "High-level interface"
+          },
+          {
+            "id": "d",
+            "text": "Segmentation"
+          }
+        ],
+        "correctAnswer": "a",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M10Q66",
+        "question": "In Neural Networks, the information is transferred to the next layer using:",
+        "options": [
+          {
+            "id": "a",
+            "text": "lengths and biases"
+          },
+          {
+            "id": "b",
+            "text": "weights and biases"
+          },
+          {
+            "id": "c",
+            "text": "input and output layer"
+          }
+        ],
+        "correctAnswer": "b",
+        "isMultiAnswer": false
+      },
+      {
+        "id": "M10Q67",
+        "question": "The __________ determines the error in the prediction and reports it back to the Neural Network.",
+        "options": [
+          {
+            "id": "a",
+            "text": "Cost function"
+          },
+          {
+            "id": "b",
+            "text": "Activation function"
+          },
+          {
+            "id": "c",
+            "text": "Bias parameters"
+          },
+          {
+            "id": "d",
+            "text": "Weighted sum"
+          }
+        ],
+        "correctAnswer": "a",
+        "isMultiAnswer": false
+      }
+    ]
+  }
+]

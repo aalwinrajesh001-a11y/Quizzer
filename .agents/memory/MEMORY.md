@@ -1,0 +1,1 @@
+- [Quizzer architecture](quizzer-architecture.md) — fully client-side quiz app; no DB needed; NASSCOM data pre-bundled as JSON in src/data/
