@@ -1,6 +1,6 @@
 import { Link, useLocation } from 'wouter';
 import { motion } from 'framer-motion';
-import { BookOpen, Home, Settings, Menu, X } from 'lucide-react';
+import { Home, Settings, Menu, X } from 'lucide-react';
 import { useState } from 'react';
 import { ThemeToggle } from '@/components/ThemeToggle';
 
@@ -23,8 +23,11 @@ export function Navbar() {
             whileHover={{ scale: 1.03 }}
             className="flex items-center gap-2.5 cursor-pointer select-none"
           >
-            <div className="w-8 h-8 rounded-lg bg-gradient-to-br from-blue-500 to-indigo-600 flex items-center justify-center shadow-lg">
-              <BookOpen size={16} className="text-white" />
+            <div className="w-8 h-8 rounded-lg bg-gradient-to-br from-blue-500 to-indigo-600 flex items-center justify-center shadow-lg shadow-blue-500/30">
+              <svg width="18" height="18" viewBox="0 0 18 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <circle cx="8.5" cy="8.5" r="5.5" stroke="white" strokeWidth="2.2" fill="none"/>
+                <line x1="12.5" y1="12.5" x2="16" y2="16" stroke="white" strokeWidth="2.2" strokeLinecap="round"/>
+              </svg>
             </div>
             <span className="text-xl font-bold bg-gradient-to-r from-blue-600 to-indigo-600 dark:from-blue-400 dark:to-indigo-400 bg-clip-text text-transparent">
               Quizzer
