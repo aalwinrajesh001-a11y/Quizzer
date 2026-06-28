@@ -94,8 +94,8 @@ export default function AdminPage() {
                   value={username}
                   onChange={(e) => setUsername(e.target.value)}
                   placeholder="admin"
-                  className="w-full px-4 py-3 rounded-xl border-2 border-gray-200 dark:border-white/10
-                    bg-white dark:bg-white/5 text-gray-900 dark:text-white placeholder-gray-400
+                  className="w-full px-4 py-3 rounded-xl border-2 border-sky-200 dark:border-white/10
+                    bg-white/80 dark:bg-white/5 text-gray-900 dark:text-white placeholder-gray-400
                     focus:outline-none focus:border-indigo-500 focus:ring-2 focus:ring-indigo-500/20
                     transition-all duration-200"
                 />
@@ -111,8 +111,8 @@ export default function AdminPage() {
                   value={password}
                   onChange={(e) => setPassword(e.target.value)}
                   placeholder="••••••••"
-                  className="w-full px-4 py-3 rounded-xl border-2 border-gray-200 dark:border-white/10
-                    bg-white dark:bg-white/5 text-gray-900 dark:text-white placeholder-gray-400
+                  className="w-full px-4 py-3 rounded-xl border-2 border-sky-200 dark:border-white/10
+                    bg-white/80 dark:bg-white/5 text-gray-900 dark:text-white placeholder-gray-400
                     focus:outline-none focus:border-indigo-500 focus:ring-2 focus:ring-indigo-500/20
                     transition-all duration-200"
                 />
@@ -180,7 +180,7 @@ export default function AdminPage() {
             whileTap={{ scale: 0.97 }}
             onClick={logout}
             className="flex items-center gap-1.5 px-3 py-2 rounded-lg text-sm font-medium
-              text-gray-600 dark:text-gray-400 hover:bg-gray-100 dark:hover:bg-white/10 transition-colors"
+              text-sky-700 dark:text-gray-400 hover:bg-sky-100 dark:hover:bg-white/10 transition-colors"
           >
             <LogOut size={15} />
             Logout
@@ -231,7 +231,7 @@ export default function AdminPage() {
               onClick={handleReset}
               className="flex items-center gap-2 px-4 py-3 rounded-xl border-2 border-gray-200 dark:border-white/10
                 text-sm font-semibold text-gray-600 dark:text-gray-400 hover:border-gray-300 dark:hover:border-white/20
-                hover:bg-gray-50 dark:hover:bg-white/5 transition-all whitespace-nowrap"
+                hover:bg-sky-50 dark:hover:bg-white/5 transition-all whitespace-nowrap"
             >
               <RefreshCw size={15} />
               Reset to Default
@@ -272,7 +272,7 @@ export default function AdminPage() {
               <Eye size={18} className="text-indigo-500" />
               Module Preview — {previewCategoryName || (nasscomCategory ? nasscomCategory.name : 'NASSCOM')}
             </h2>
-            <span className="text-xs font-semibold text-gray-500 dark:text-gray-400 bg-gray-100 dark:bg-white/10 px-2.5 py-1 rounded-full">
+            <span className="text-xs font-semibold text-sky-700 dark:text-gray-400 bg-sky-100 dark:bg-white/10 px-2.5 py-1 rounded-full">
               {displayModules.length} modules · {displayModules.reduce((s, m) => s + m.questions.length, 0)} total questions
             </span>
           </div>
@@ -299,7 +299,7 @@ export default function AdminPage() {
                       initial={{ opacity: 0, x: -8 }}
                       animate={{ opacity: 1, x: 0 }}
                       transition={{ delay: idx * 0.04 }}
-                      className="border-b border-gray-50 dark:border-white/5 hover:bg-gray-50 dark:hover:bg-white/5 transition-colors"
+                      className="border-b border-sky-50 dark:border-white/5 hover:bg-sky-50 dark:hover:bg-white/5 transition-colors"
                     >
                       <td className="py-3 px-3 text-gray-400 dark:text-gray-600">{idx + 1}</td>
                       <td className="py-3 px-3 font-medium text-gray-800 dark:text-gray-200" data-testid={`text-module-name-${idx}`}>{mod.name}</td>

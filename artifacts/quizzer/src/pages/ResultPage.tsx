@@ -68,7 +68,7 @@ export default function ResultPage() {
           className="bg-white/70 dark:bg-white/5 backdrop-blur-xl rounded-2xl border border-white/30 dark:border-white/10 shadow-2xl overflow-hidden mb-5"
         >
           {/* Student info */}
-          <div className="p-6 border-b border-gray-100 dark:border-white/10">
+          <div className="p-6 border-b border-sky-100 dark:border-white/10">
             <div className="flex items-start gap-4">
               <div className="w-14 h-14 rounded-2xl bg-gradient-to-br from-blue-500 to-indigo-600 flex items-center justify-center text-white text-xl font-bold shadow-lg shrink-0">
                 {studentName.charAt(0).toUpperCase()}
@@ -111,22 +111,22 @@ export default function ResultPage() {
 
               {/* Stats grid */}
               <div className="grid grid-cols-2 gap-4 flex-1 w-full">
-                <div className="bg-gray-50 dark:bg-white/5 rounded-xl p-4 text-center">
+                <div className="bg-sky-50 dark:bg-white/5 rounded-xl p-4 text-center">
                   <CheckCircle size={20} className="text-emerald-500 mx-auto mb-1" />
                   <p className="text-2xl font-extrabold text-gray-900 dark:text-white" data-testid="text-correct">{correctAnswers}</p>
                   <p className="text-xs text-gray-500 dark:text-gray-400">Correct</p>
                 </div>
-                <div className="bg-gray-50 dark:bg-white/5 rounded-xl p-4 text-center">
+                <div className="bg-sky-50 dark:bg-white/5 rounded-xl p-4 text-center">
                   <XCircle size={20} className="text-red-500 mx-auto mb-1" />
                   <p className="text-2xl font-extrabold text-gray-900 dark:text-white" data-testid="text-wrong">{wrongAnswers}</p>
                   <p className="text-xs text-gray-500 dark:text-gray-400">Incorrect</p>
                 </div>
-                <div className="bg-gray-50 dark:bg-white/5 rounded-xl p-4 text-center">
+                <div className="bg-sky-50 dark:bg-white/5 rounded-xl p-4 text-center">
                   <Trophy size={20} className="text-amber-500 mx-auto mb-1" />
                   <p className="text-2xl font-extrabold text-gray-900 dark:text-white">{totalQuestions}</p>
                   <p className="text-xs text-gray-500 dark:text-gray-400">Total</p>
                 </div>
-                <div className="bg-gray-50 dark:bg-white/5 rounded-xl p-4 text-center">
+                <div className="bg-sky-50 dark:bg-white/5 rounded-xl p-4 text-center">
                   <Clock size={20} className="text-blue-500 mx-auto mb-1" />
                   <p className="text-2xl font-extrabold text-gray-900 dark:text-white">{formatTime(timeTakenSeconds)}</p>
                   <p className="text-xs text-gray-500 dark:text-gray-400">Time</p>
@@ -179,8 +179,8 @@ export default function ResultPage() {
             whileTap={{ scale: 0.98 }}
             onClick={handleHome}
             className="flex-1 flex items-center justify-center gap-2 py-3.5 rounded-xl font-bold
-              border-2 border-gray-200 dark:border-white/20 text-gray-700 dark:text-gray-300
-              hover:bg-gray-50 dark:hover:bg-white/10 transition-all"
+              border-2 border-sky-200 dark:border-white/20 text-sky-800 dark:text-gray-300
+              hover:bg-sky-50 dark:hover:bg-white/10 transition-all"
           >
             <Home size={18} />
             Back to Home

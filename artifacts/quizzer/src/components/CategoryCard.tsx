@@ -59,7 +59,7 @@ export function CategoryCard({ category, onClick, index }: CategoryCardProps) {
               <p className="text-2xl font-bold text-gray-900 dark:text-white">{moduleCount}</p>
               <p className="text-xs text-gray-500 dark:text-gray-400">Modules</p>
             </div>
-            <div className="w-px bg-gray-200 dark:bg-white/10" />
+            <div className="w-px bg-sky-200 dark:bg-white/10" />
             <div className="text-center">
               <p className="text-2xl font-bold text-gray-900 dark:text-white">{totalQuestions}</p>
               <p className="text-xs text-gray-500 dark:text-gray-400">Questions</p>

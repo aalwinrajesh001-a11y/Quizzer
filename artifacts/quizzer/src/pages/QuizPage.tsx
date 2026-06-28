@@ -98,7 +98,7 @@ export default function QuizPage() {
             {session.config.moduleName}
           </div>
           <div className="flex items-center gap-1.5 text-sm font-mono font-semibold text-gray-600 dark:text-gray-300
-            bg-white/60 dark:bg-white/5 border border-gray-200 dark:border-white/10 rounded-lg px-2.5 py-1 backdrop-blur-sm">
+            bg-white/70 dark:bg-white/5 border border-sky-200 dark:border-white/10 rounded-lg px-2.5 py-1 backdrop-blur-sm">
             <Clock size={14} />
             {formatTime(elapsed)}
           </div>
@@ -205,7 +205,7 @@ export default function QuizPage() {
               className={`flex-1 py-4 rounded-xl font-bold text-base transition-all duration-200
                 ${selected.length > 0
                   ? 'bg-gradient-to-r from-blue-600 to-indigo-600 hover:from-blue-700 hover:to-indigo-700 text-white shadow-lg shadow-blue-500/30'
-                  : 'bg-gray-100 dark:bg-white/5 text-gray-400 dark:text-gray-600 cursor-not-allowed border border-gray-200 dark:border-white/10'
+                  : 'bg-sky-100 dark:bg-white/5 text-sky-400 dark:text-gray-600 cursor-not-allowed border border-sky-200 dark:border-white/10'
                 }`}
             >
               {selected.length === 0 ? (

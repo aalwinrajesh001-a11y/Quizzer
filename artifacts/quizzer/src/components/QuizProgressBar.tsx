@@ -23,7 +23,7 @@ export function QuizProgressBar({ current, total, score }: QuizProgressBarProps)
       </div>
 
       {/* Progress bar track */}
-      <div className="h-2.5 w-full bg-gray-200 dark:bg-white/10 rounded-full overflow-hidden">
+      <div className="h-2.5 w-full bg-sky-200 dark:bg-white/10 rounded-full overflow-hidden">
         <motion.div
           className="h-full rounded-full bg-gradient-to-r from-blue-500 to-indigo-600"
           initial={{ width: 0 }}

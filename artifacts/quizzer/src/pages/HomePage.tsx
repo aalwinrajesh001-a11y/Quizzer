@@ -100,7 +100,7 @@ export default function HomePage() {
         {!isLoaded ? (
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5">
             {[1, 2, 3].map((i) => (
-              <div key={i} className="h-48 rounded-2xl bg-gray-100 dark:bg-white/5 animate-pulse" />
+              <div key={i} className="h-48 rounded-2xl bg-sky-100 dark:bg-white/5 animate-pulse" />
             ))}
           </div>
         ) : (

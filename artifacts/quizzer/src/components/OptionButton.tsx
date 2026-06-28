@@ -19,9 +19,9 @@ export function OptionButton({ optionId, text, state, disabled, onClick, index }
   const isIncorrect = state === 'incorrect';
   const isSelected = state === 'selected' || state === 'correct' || state === 'incorrect';
 
-  let bgClass = 'bg-white/60 dark:bg-white/5 border-gray-200 dark:border-white/10 hover:bg-blue-50/60 dark:hover:bg-blue-900/20 hover:border-blue-300 dark:hover:border-blue-500/50';
+  let bgClass = 'bg-white/70 dark:bg-white/6 border-sky-200 dark:border-white/10 hover:bg-sky-50/80 dark:hover:bg-blue-900/20 hover:border-blue-300 dark:hover:border-blue-500/50';
   let textClass = 'text-gray-800 dark:text-gray-200';
-  let labelClass = 'bg-gray-100 dark:bg-white/10 text-gray-600 dark:text-gray-300';
+  let labelClass = 'bg-sky-100 dark:bg-white/10 text-sky-700 dark:text-gray-300';
 
   if (isCorrect) {
     bgClass = 'bg-emerald-50 dark:bg-emerald-900/30 border-emerald-400 dark:border-emerald-500';

@@ -144,7 +144,7 @@ export default function QuizSetupPage() {
                   focus:ring-2 focus:ring-blue-500/30
                   ${nameError
                     ? 'border-red-400 focus:border-red-400'
-                    : 'border-gray-200 dark:border-white/10 focus:border-blue-500'
+                    : 'border-sky-200 dark:border-white/10 focus:border-blue-500'
                   }`}
               />
               {nameError && (
@@ -175,7 +175,7 @@ export default function QuizSetupPage() {
                     className={`py-2.5 rounded-xl border-2 text-sm font-semibold transition-all duration-200
                       ${questionCount === opt
                         ? 'border-blue-500 bg-blue-500 text-white shadow-lg shadow-blue-500/30'
-                        : 'border-gray-200 dark:border-white/10 text-gray-700 dark:text-gray-300 hover:border-blue-300 dark:hover:border-blue-600 bg-white dark:bg-white/5'
+                        : 'border-sky-200 dark:border-white/10 text-sky-800 dark:text-gray-300 hover:border-blue-400 dark:hover:border-blue-600 bg-white/80 dark:bg-white/5'
                       }`}
                   >
                     {opt === 'all' ? `All (${questions.length})` : opt}

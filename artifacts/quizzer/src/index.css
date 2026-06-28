@@ -91,57 +91,57 @@
 }
 
 /* ============================
-   LIGHT MODE
+   LIGHT MODE — sky blue
    ============================ */
 :root {
-  --button-outline: rgba(0, 0, 0, 0.10);
-  --badge-outline: rgba(0, 0, 0, 0.05);
+  --button-outline: rgba(0, 100, 180, 0.12);
+  --badge-outline: rgba(0, 100, 180, 0.06);
   --opaque-button-border-intensity: -8;
-  --elevate-1: rgba(0, 0, 0, 0.03);
-  --elevate-2: rgba(0, 0, 0, 0.08);
+  --elevate-1: rgba(0, 100, 180, 0.04);
+  --elevate-2: rgba(0, 100, 180, 0.09);
 
-  /* Core palette */
-  --background: 210 40% 98%;
-  --foreground: 222 47% 11%;
-  --border: 214 32% 91%;
-  --input: 214 32% 91%;
-  --ring: 221 83% 53%;
+  /* Core palette — sky blue */
+  --background: 199 92% 91%;
+  --foreground: 210 60% 12%;
+  --border: 199 65% 78%;
+  --input: 199 65% 82%;
+  --ring: 199 89% 48%;
 
-  /* Card — slightly elevated from background */
-  --card: 0 0% 100%;
-  --card-foreground: 222 47% 11%;
-  --card-border: 214 32% 91%;
+  /* Card — white with blue tint */
+  --card: 210 100% 98%;
+  --card-foreground: 210 60% 12%;
+  --card-border: 199 60% 82%;
 
   /* Sidebar */
-  --sidebar: 210 40% 96%;
-  --sidebar-foreground: 222 47% 11%;
-  --sidebar-border: 214 32% 88%;
-  --sidebar-primary: 221 83% 53%;
+  --sidebar: 199 85% 88%;
+  --sidebar-foreground: 210 60% 12%;
+  --sidebar-border: 199 60% 78%;
+  --sidebar-primary: 199 89% 45%;
   --sidebar-primary-foreground: 0 0% 100%;
-  --sidebar-accent: 214 32% 91%;
-  --sidebar-accent-foreground: 222 47% 11%;
-  --sidebar-ring: 221 83% 53%;
+  --sidebar-accent: 199 65% 82%;
+  --sidebar-accent-foreground: 210 60% 12%;
+  --sidebar-ring: 199 89% 45%;
 
   /* Popover */
-  --popover: 0 0% 100%;
-  --popover-foreground: 222 47% 11%;
-  --popover-border: 214 32% 91%;
+  --popover: 210 100% 99%;
+  --popover-foreground: 210 60% 12%;
+  --popover-border: 199 60% 82%;
 
-  /* Brand primary — electric blue */
-  --primary: 221 83% 53%;
+  /* Brand primary — sky blue */
+  --primary: 199 89% 45%;
   --primary-foreground: 0 0% 100%;
 
-  /* Secondary — soft slate */
-  --secondary: 214 32% 91%;
-  --secondary-foreground: 222 47% 25%;
+  /* Secondary */
+  --secondary: 199 65% 84%;
+  --secondary-foreground: 210 60% 20%;
 
   /* Muted */
-  --muted: 210 40% 96%;
-  --muted-foreground: 215 16% 47%;
+  --muted: 199 70% 88%;
+  --muted-foreground: 210 35% 40%;
 
   /* Accent */
-  --accent: 210 40% 93%;
-  --accent-foreground: 222 47% 11%;
+  --accent: 199 70% 86%;
+  --accent-foreground: 210 60% 12%;
 
   /* Destructive */
   --destructive: 0 84% 60%;
@@ -183,57 +183,57 @@
 }
 
 /* ============================
-   DARK MODE
+   DARK MODE — deep black
    ============================ */
 .dark {
   --button-outline: rgba(255, 255, 255, 0.10);
   --badge-outline: rgba(255, 255, 255, 0.05);
   --opaque-button-border-intensity: 9;
-  --elevate-1: rgba(255, 255, 255, 0.04);
-  --elevate-2: rgba(255, 255, 255, 0.09);
+  --elevate-1: rgba(255, 255, 255, 0.03);
+  --elevate-2: rgba(255, 255, 255, 0.07);
 
-  /* Core palette — deep navy/slate */
-  --background: 222 47% 6%;
-  --foreground: 210 40% 95%;
-  --border: 217 32% 17%;
-  --input: 217 32% 20%;
+  /* Core palette — deep black */
+  --background: 0 0% 4%;
+  --foreground: 0 0% 95%;
+  --border: 0 0% 14%;
+  --input: 0 0% 16%;
   --ring: 217 91% 60%;
 
-  /* Card — slightly elevated from bg */
-  --card: 222 47% 8%;
-  --card-foreground: 210 40% 95%;
-  --card-border: 217 32% 17%;
+  /* Card — slightly lighter than pure black */
+  --card: 0 0% 7%;
+  --card-foreground: 0 0% 95%;
+  --card-border: 0 0% 14%;
 
   /* Sidebar */
-  --sidebar: 222 47% 7%;
-  --sidebar-foreground: 210 40% 95%;
-  --sidebar-border: 217 32% 15%;
+  --sidebar: 0 0% 5%;
+  --sidebar-foreground: 0 0% 95%;
+  --sidebar-border: 0 0% 12%;
   --sidebar-primary: 217 91% 60%;
   --sidebar-primary-foreground: 0 0% 100%;
-  --sidebar-accent: 217 32% 17%;
-  --sidebar-accent-foreground: 210 40% 95%;
+  --sidebar-accent: 0 0% 13%;
+  --sidebar-accent-foreground: 0 0% 95%;
   --sidebar-ring: 217 91% 60%;
 
   /* Popover */
-  --popover: 222 47% 9%;
-  --popover-foreground: 210 40% 95%;
-  --popover-border: 217 32% 17%;
+  --popover: 0 0% 8%;
+  --popover-foreground: 0 0% 95%;
+  --popover-border: 0 0% 14%;
 
   /* Brand primary — vibrant blue */
   --primary: 217 91% 60%;
   --primary-foreground: 0 0% 100%;
 
   /* Secondary */
-  --secondary: 217 32% 17%;
-  --secondary-foreground: 210 40% 85%;
+  --secondary: 0 0% 14%;
+  --secondary-foreground: 0 0% 85%;
 
   /* Muted */
-  --muted: 217 32% 13%;
-  --muted-foreground: 215 20% 55%;
+  --muted: 0 0% 11%;
+  --muted-foreground: 0 0% 52%;
 
   /* Accent */
-  --accent: 217 32% 15%;
-  --accent-foreground: 210 40% 95%;
+  --accent: 0 0% 12%;
+  --accent-foreground: 0 0% 95%;
 
   /* Destructive */
   --destructive: 0 72% 51%;
