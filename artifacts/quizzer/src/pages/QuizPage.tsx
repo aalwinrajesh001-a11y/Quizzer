@@ -10,7 +10,7 @@ import { formatTime } from '@/utils/quizUtils';
 export default function QuizPage() {
   const [, setLocation] = useLocation();
   const { session, submitAnswer, nextQuestion } = useQuizStore();
-  const [selected, setSelected] = useState<string | null>(null);
+  const [selected, setSelected] = useState<string[]>([]);
   const [elapsed, setElapsed] = useState(0);
 
   // Redirect if no active session
@@ -34,7 +34,7 @@ export default function QuizPage() {
 
   // Reset selected option when question changes
   useEffect(() => {
-    setSelected(null);
+    setSelected([]);
   }, [session?.currentIndex]);
 
   if (!session) return null;
@@ -46,25 +46,33 @@ export default function QuizPage() {
 
   const handleSelect = (optionId: string) => {
     if (isAnswered) return;
-    setSelected(optionId);
+    if (question.isMultiAnswer) {
+      setSelected(prev =>
+        prev.includes(optionId) ? prev.filter(id => id !== optionId) : [...prev, optionId]
+      );
+    } else {
+      setSelected([optionId]);
+    }
   };
 
   const handleSubmit = () => {
     if (isAnswered) {
       nextQuestion();
     } else {
-      if (!selected) return;
-      submitAnswer(selected);
+      if (selected.length === 0) return;
+      submitAnswer(question.isMultiAnswer ? selected : selected[0]);
     }
   };
 
   const getOptionState = (optionId: string) => {
     if (!isAnswered) {
-      return selected === optionId ? 'selected' : 'idle';
+      return selected.includes(optionId) ? 'selected' : 'idle';
     }
     const correct = question.shuffledCorrectAnswer;
     const isCorrectOption = Array.isArray(correct) ? correct.includes(optionId) : correct === optionId;
-    const wasSelected = currentAnswer?.selectedAnswer === optionId;
+    const wasSelected = Array.isArray(currentAnswer?.selectedAnswer)
+      ? currentAnswer.selectedAnswer.includes(optionId)
+      : currentAnswer?.selectedAnswer === optionId;
 
     if (isCorrectOption && wasSelected) return 'correct';
     if (isCorrectOption && !wasSelected) return 'reveal-correct';
@@ -190,22 +198,24 @@ export default function QuizPage() {
           {!isAnswered ? (
             <motion.button
               data-testid="button-submit-answer"
-              whileHover={selected ? { scale: 1.02 } : {}}
-              whileTap={selected ? { scale: 0.98 } : {}}
+              whileHover={selected.length > 0 ? { scale: 1.02 } : {}}
+              whileTap={selected.length > 0 ? { scale: 0.98 } : {}}
               onClick={handleSubmit}
-              disabled={!selected}
+              disabled={selected.length === 0}
               className={`flex-1 py-4 rounded-xl font-bold text-base transition-all duration-200
-                ${selected
+                ${selected.length > 0
                   ? 'bg-gradient-to-r from-blue-600 to-indigo-600 hover:from-blue-700 hover:to-indigo-700 text-white shadow-lg shadow-blue-500/30'
                   : 'bg-gray-100 dark:bg-white/5 text-gray-400 dark:text-gray-600 cursor-not-allowed border border-gray-200 dark:border-white/10'
                 }`}
             >
-              {!selected ? (
+              {selected.length === 0 ? (
                 <span className="flex items-center justify-center gap-2">
                   <AlertCircle size={16} />
-                  Select an answer
+                  {question.isMultiAnswer ? 'Select all correct answers' : 'Select an answer'}
                 </span>
-              ) : 'Submit Answer'}
+              ) : question.isMultiAnswer
+                  ? `Submit ${selected.length} answer${selected.length > 1 ? 's' : ''}`
+                  : 'Submit Answer'}
             </motion.button>
           ) : (
             <motion.button
