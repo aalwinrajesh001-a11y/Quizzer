@@ -41,7 +41,7 @@ export default function AdminPage() {
         message: `Successfully loaded ${modules.length} modules with ${modules.reduce((s, m) => s + m.questions.length, 0)} total questions.`,
       });
       setPreviewModules(modules);
-      setPreviewCategoryName('NASSCOM');
+      setPreviewCategoryName('NASSCOM Digital Edge 101');
     } catch (err) {
       setUploadResult({
         success: false,
@@ -58,7 +58,7 @@ export default function AdminPage() {
     resetToDefault();
     refresh();
     setPreviewModules(null);
-    setUploadResult({ success: true, message: 'Question bank reset to default NASSCOM data.' });
+    setUploadResult({ success: true, message: 'Question bank reset to default NASSCOM Digital Edge 101 data.' });
   };
 
   if (!isAuthenticated) {

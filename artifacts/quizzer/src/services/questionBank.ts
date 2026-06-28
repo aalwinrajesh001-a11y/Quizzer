@@ -17,7 +17,7 @@ function buildDefaultNasscomCategory(): Category {
 
   return {
     id: 'nasscom',
-    name: 'NASSCOM',
+    name: 'NASSCOM Digital Edge 101',
     description: 'IT & Emerging Technologies certification — AI, IoT, Cloud, Cybersecurity & more',
     icon: 'Monitor',
     color: 'from-blue-600 to-indigo-700',

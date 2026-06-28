@@ -35,7 +35,7 @@ export function ModuleCard({ module, index, isSpecial = false, onStart }: Module
                 <span className="text-xs font-semibold text-amber-600 dark:text-amber-400 uppercase tracking-wider">Featured</span>
               </div>
               <h3 className="text-xl font-bold text-gray-900 dark:text-white mb-1">
-                Entire NASSCOM Quiz
+                Entire NASSCOM Digital Edge 101 Quiz
               </h3>
               <p className="text-sm text-gray-600 dark:text-gray-400">
                 All modules combined · <span className="font-semibold text-amber-600 dark:text-amber-400">{questionCount} questions total</span>
