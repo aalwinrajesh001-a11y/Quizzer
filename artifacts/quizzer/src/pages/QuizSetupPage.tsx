@@ -13,7 +13,7 @@ export default function QuizSetupPage() {
   const { categories, isLoaded, refresh } = useCategoryStore();
   const startQuiz = useQuizStore((s) => s.startQuiz);
 
-  const [studentName, setStudentName] = useState('');
+  const [studentName, setStudentName] = useState(() => localStorage.getItem('quizzer_student_name') ?? '');
   const [questionCount, setQuestionCount] = useState<QuestionCountOption>(10);
   const [nameError, setNameError] = useState('');
 
@@ -49,6 +49,7 @@ export default function QuizSetupPage() {
       return;
     }
     if (!category || !module) return;
+    localStorage.setItem('quizzer_student_name', studentName.trim());
 
     const config: QuizConfig = {
       studentName: studentName.trim(),
