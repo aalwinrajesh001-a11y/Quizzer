@@ -1,6 +1,6 @@
 import { Link, useLocation } from 'wouter';
 import { motion } from 'framer-motion';
-import { Home, Settings, Menu, X } from 'lucide-react';
+import { Home, Settings, Menu, X, User } from 'lucide-react';
 import { useState } from 'react';
 import { ThemeToggle } from '@/components/ThemeToggle';
 
@@ -12,6 +12,7 @@ const NAV_LINKS = [
 export function Navbar() {
   const [location] = useLocation();
   const [mobileOpen, setMobileOpen] = useState(false);
+  const studentName = localStorage.getItem('quizzer_student_name') ?? '';
 
   return (
     <nav className="fixed top-0 left-0 right-0 z-50 h-16">
@@ -52,6 +53,22 @@ export function Navbar() {
               </motion.span>
             </Link>
           ))}
+
+          {/* Student name chip */}
+          {studentName && (
+            <Link href="/welcome">
+              <motion.span
+                whileHover={{ scale: 1.03 }}
+                title="Change name"
+                className="flex items-center gap-1.5 px-3 py-1.5 rounded-lg text-sm font-medium cursor-pointer
+                  text-sky-800 dark:text-gray-400 hover:bg-sky-100 dark:hover:bg-white/10 hover:text-sky-950 dark:hover:text-white transition-colors"
+              >
+                <User size={14} />
+                <span className="max-w-[120px] truncate">{studentName}</span>
+              </motion.span>
+            </Link>
+          )}
+
           <div className="ml-2">
             <ThemeToggle />
           </div>
@@ -92,6 +109,17 @@ export function Navbar() {
               </div>
             </Link>
           ))}
+          {studentName && (
+            <Link href="/welcome">
+              <div
+                onClick={() => setMobileOpen(false)}
+                className="flex items-center gap-3 px-4 py-3 text-sm font-medium cursor-pointer transition-colors text-sky-800 dark:text-gray-300 hover:bg-sky-100 dark:hover:bg-white/5"
+              >
+                <User size={16} />
+                {studentName} <span className="text-xs text-gray-400 ml-1">(change)</span>
+              </div>
+            </Link>
+          )}
         </motion.div>
       )}
     </nav>

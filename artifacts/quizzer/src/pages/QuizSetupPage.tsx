@@ -1,7 +1,7 @@
 import { useEffect, useMemo, useState } from 'react';
 import { useLocation, useParams } from 'wouter';
 import { motion } from 'framer-motion';
-import { ArrowLeft, User, BookOpen, Hash, Play } from 'lucide-react';
+import { ArrowLeft, BookOpen, Hash, Play } from 'lucide-react';
 import { useCategoryStore } from '@/stores/categoryStore';
 import { useQuizStore } from '@/stores/quizStore';
 import { QuizConfig, QuestionCountOption, QUESTION_COUNT_OPTIONS, Question } from '@/types';
@@ -13,9 +13,8 @@ export default function QuizSetupPage() {
   const { categories, isLoaded, refresh } = useCategoryStore();
   const startQuiz = useQuizStore((s) => s.startQuiz);
 
-  const [studentName, setStudentName] = useState(() => localStorage.getItem('quizzer_student_name') ?? '');
+  const studentName = localStorage.getItem('quizzer_student_name') ?? '';
   const [questionCount, setQuestionCount] = useState<QuestionCountOption>(10);
-  const [nameError, setNameError] = useState('');
 
   useEffect(() => {
     if (!isLoaded) refresh();
@@ -44,15 +43,10 @@ export default function QuizSetupPage() {
   });
 
   const handleStart = () => {
-    if (!studentName.trim()) {
-      setNameError('Please enter your name to continue.');
-      return;
-    }
     if (!category || !module) return;
-    localStorage.setItem('quizzer_student_name', studentName.trim());
 
     const config: QuizConfig = {
-      studentName: studentName.trim(),
+      studentName,
       categoryId: category.id,
       categoryName: category.name,
       moduleId: module.id,
@@ -60,16 +54,15 @@ export default function QuizSetupPage() {
       questionCount,
       totalAvailableQuestions: questions.length,
     };
-
     startQuiz(config, questions);
     setLocation('/quiz');
   };
 
-  const displayCount = questionCount === 'all' ? questions.length : questionCount;
+  const displayCount = questionCount === 'all' ? questions.length : Math.min(questionCount, questions.length);
 
   if (!isLoaded) {
     return (
-      <div className="min-h-screen pt-24 flex items-center justify-center">
+      <div className="min-h-screen pt-16 flex items-center justify-center">
         <div className="w-8 h-8 border-2 border-blue-500 border-t-transparent rounded-full animate-spin" />
       </div>
     );
@@ -79,24 +72,18 @@ export default function QuizSetupPage() {
     return (
       <div className="min-h-screen pt-24 flex flex-col items-center justify-center gap-4">
         <p className="text-gray-500 dark:text-gray-400">Module not found</p>
-        <button onClick={() => setLocation('/')} className="text-blue-600 dark:text-blue-400 underline">
-          Back to Home
+        <button onClick={() => setLocation('/')} className="text-blue-500 hover:underline text-sm">
+          Go home
         </button>
       </div>
     );
   }
 
   return (
-    <div className="min-h-screen pt-16">
-      <div className="fixed inset-0 pointer-events-none overflow-hidden">
-        <div className="absolute top-32 left-1/3 w-80 h-80 bg-blue-500/10 rounded-full blur-3xl" />
-        <div className="absolute bottom-32 right-1/3 w-64 h-64 bg-indigo-500/10 rounded-full blur-3xl" />
-      </div>
-
-      <div className="relative max-w-2xl mx-auto px-4 sm:px-6 py-10">
-        {/* Back */}
+    <div className="min-h-screen pt-16 pb-8">
+      <div className="max-w-2xl mx-auto px-4 sm:px-6 py-10">
         <motion.button
-          initial={{ opacity: 0, x: -16 }}
+          initial={{ opacity: 0, x: -10 }}
           animate={{ opacity: 1, x: 0 }}
           whileHover={{ x: -4 }}
           onClick={() => setLocation(`/category/${categoryId}`)}
@@ -127,38 +114,6 @@ export default function QuizSetupPage() {
           </div>
 
           <div className="space-y-6">
-            {/* Student Name */}
-            <div>
-              <label className="flex items-center gap-2 text-sm font-semibold text-gray-700 dark:text-gray-300 mb-2">
-                <User size={15} />
-                Student Name <span className="text-red-500">*</span>
-              </label>
-              <input
-                data-testid="input-student-name"
-                type="text"
-                placeholder="Enter your full name"
-                value={studentName}
-                onChange={(e) => { setStudentName(e.target.value); setNameError(''); }}
-                onKeyDown={(e) => e.key === 'Enter' && handleStart()}
-                className={`w-full px-4 py-3 rounded-xl border-2 bg-white dark:bg-white/5 text-gray-900 dark:text-white
-                  placeholder-gray-400 dark:placeholder-gray-600 outline-none transition-all duration-200
-                  focus:ring-2 focus:ring-blue-500/30
-                  ${nameError
-                    ? 'border-red-400 focus:border-red-400'
-                    : 'border-sky-200 dark:border-white/10 focus:border-blue-500'
-                  }`}
-              />
-              {nameError && (
-                <motion.p
-                  initial={{ opacity: 0, y: -4 }}
-                  animate={{ opacity: 1, y: 0 }}
-                  className="mt-1.5 text-xs text-red-500 flex items-center gap-1"
-                >
-                  {nameError}
-                </motion.p>
-              )}
-            </div>
-
             {/* Number of questions */}
             <div>
               <label className="flex items-center gap-2 text-sm font-semibold text-gray-700 dark:text-gray-300 mb-3">
@@ -188,7 +143,8 @@ export default function QuizSetupPage() {
             {/* Summary */}
             <div className="bg-blue-50 dark:bg-blue-900/20 rounded-xl p-4 border border-blue-100 dark:border-blue-800/40">
               <p className="text-sm text-blue-700 dark:text-blue-300">
-                You will answer <span className="font-bold">{displayCount}</span> randomly selected questions
+                <span className="font-bold">{studentName}</span>, you will answer{' '}
+                <span className="font-bold">{displayCount}</span> randomly selected questions
                 from <span className="font-bold">{module.name}</span>.
                 Questions and answer options will be shuffled.
               </p>
